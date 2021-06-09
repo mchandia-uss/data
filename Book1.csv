@@ -1,17 +1,17 @@
-rut_cliente;fecha_compra;nombre_cliente
-12345678-9;10/12/2019;Chaucha SPA
-67543987-0;11/12/2019;Copi Copi SA
-23456321-K;11/12/2019;Adjetivo EIRL
-67543987-0;02/01/2020;Copi Copi SA
-23456321-K;02/01/2020;Adjetivo EIRL
-12345678-9;03/02/2020;Chaucha SPA
-12345678-9;04/03/2020;Chaucha SPA
-23456321-K;04/03/2020;Adjetivo EIRL
-67543987-0;15/05/2020;Copi Copi SA
-23456321-K;21/06/2020;Adjetivo EIRL
-12345678-9;17/08/2020;Chaucha SPA
-67543987-0;12/12/2020;Copi Copi SA
-67543987-0;03/01/2021;Copi Copi SA
-23456321-K;05/02/2021;Adjetivo EIRL
-23456321-K;05/02/2021;Adjetivo EIRL
-32567846-2;05/05/2021;Yo no fui SPA
+rut_cliente;fecha_compra;nombre_cliente;producto_comprado
+12345678-9;10/12/2019;Chaucha SPA;chocman
+67543987-0;11/12/2019;Copi Copi SA;negrita
+23456321-K;11/12/2019;Adjetivo EIRL;chocman
+67543987-0;02/01/2020;Copi Copi SA;valde de galletones
+23456321-K;02/01/2020;Adjetivo EIRL;oreo
+12345678-9;03/02/2020;Chaucha SPA;chocman
+12345678-9;04/03/2020;Chaucha SPA;chocman
+23456321-K;04/03/2020;Adjetivo EIRL;valde de galletones
+67543987-0;15/05/2020;Copi Copi SA;oreo
+23456321-K;21/06/2020;Adjetivo EIRL;negrita
+12345678-9;17/08/2020;Chaucha SPA;negrita
+67543987-0;12/12/2020;Copi Copi SA;chocman
+67543987-0;03/01/2021;Copi Copi SA;valde de galletones
+23456321-K;05/02/2021;Adjetivo EIRL;super 8
+23456321-K;05/02/2021;Adjetivo EIRL;chocman
+32567846-2;05/05/2021;Yo no fui SPA;oreo
