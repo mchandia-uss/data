@@ -1,0 +1,1459 @@
+codigo_aeropuerto;nombre;latitud;longitud;altura;zona_horaria;horario_verano;zona_horaria_iana
+04G;Lansdowne Airport;411.304.722;-806.195.833;1044;-5;A;America/New_York
+06A;Moton Field Municipal Airport;324.605.722;-856.800.278;264;-6;A;America/Chicago
+06C;Schaumburg Regional;419.893.408;-881.012.428;801;-6;A;America/Chicago
+06N;Randall Airport;41.431.912;-743.915.611;523;-5;A;America/New_York
+09J;Jekyll Island Airport;310.744.722;-814.277.778;11;-5;A;America/New_York
+0A9;Elizabethton Municipal Airport;363.712.222;-821.734.167;1593;-5;A;America/New_York
+0G6;Williams County Airport;414.673.056;-845.067.778;730;-5;A;America/New_York
+0G7;Finger Lakes Regional Airport;428.835.647;-767.812.318;492;-5;A;America/New_York
+0P2;Shoestring Aviation Airfield;397.948.244;-766.471.914;1000;-5;U;America/New_York
+0S9;Jefferson County Intl;48.053.808.600.000.000;-1.228.106.436;108;-8;A;America/Los_Angeles
+0W3;Harford County Airport;395.668.378;-762.024.028;409;-5;A;America/New_York
+10C;Galt Field Airport;424.028.889;-883.751.111;875;-6;U;America/Chicago
+17G;Port Bucyrus-Crawford County Airport;407.815.556;-829.748.056;1003;-5;A;America/New_York
+19A;Jackson County Airport;341.758.638;-835.615.972;951;-5;U;America/New_York
+1A3;Martin Campbell Field Airport;350.158.056;-843.468.333;1789;-5;A;America/New_York
+1B9;Mansfield Municipal;420.001.331;-711.967.714;122;-5;A;America/New_York
+1C9;Frazier Lake Airpark;54.013.333.333.333.300;-12.476.833.333.333.300;152;-8;A;America/Vancouver
+1CS;Clow International Airport;416.959.744;-881.292.306;670;-6;U;America/Chicago
+1G3;Kent State Airport;411.513.889;-814.151.111;1134;-5;A;America/New_York
+1G4;Grand Canyon West Airport;35.899.904;-113.815.674;4813;-7;A;America/Phoenix
+1H2;Effingham Memorial Airport;39.07;-88.534;585;-6;A;America/Chicago
+1OH;Fortman Airport;405.553.253;-843.866.186;885;-5;U;America/New_York
+1RL;Point Roberts Airpark;489.797.222;-1.230.788.889;10;-8;A;America/Los_Angeles
+23M;Clarke CO;320.517;-884.434;320;-6;A;America/Chicago
+24C;Lowell City Airport;4.295.392;-853.439.058;681;-5;A;America/New_York
+24J;Suwannee County Airport;30.300.125;-830.246.944;104;-5;A;America/New_York
+25D;Forest Lake Airport;452.477.456;-929.943.853;925;-6;A;America/Chicago
+29D;Grove City Airport;411.460.278;-8.016.775;1371;-5;A;America/New_York
+2A0;Mark Anton Airport;3.548.625;-849.310.833;718;-5;A;America/New_York
+2B2;Plum Island Airport;427.953.611;-708.394.444;11;-5;A;America/New_York
+2G2;Jefferson County Airpark;403.602.179;-807.008.742;1196;-5;A;America/New_York
+2G9;Somerset County Airport;400.388.708;-790.149.951;2275;-5;A;America/New_York
+2H0;Shelby County Airport;39.410.556;-88.845.556;550;-6;A;America/Chicago
+2J9;Quincy Municipal Airport;305.978.708;-84.557.425;225;-5;A;America/New_York
+369;Atmautluak Airport;60.866.667;-162.273.056;18;-9;A;America/Anchorage
+36U;Heber City Municipal Airport;404.818.056;-1.114.288.056;5637;-7;A;America/Denver
+38W;Lynden Airport;489.558.961;-1.224.581.183;106;-8;A;America/Los_Angeles
+3D2;Ephraim-Gibraltar Airport;451.354.167;-871.879.444;773;-6;A;America/Chicago
+3G3;Wadsworth Municipal;410.031.572;-817.564.401;974;-5;A;America/New_York
+3G4;Ashland County Airport;409.029.722;-822.556.389;1206;-5;A;America/New_York
+3J1;Ridgeland Airport;324.934.167;-8.099.175;79;-5;A;America/New_York
+3W2;Put-in-Bay Airport;413.521;-82.497;595;-5;A;America/New_York
+40J;Perry-Foley Airport;300.692.778;-835.805.833;44;-5;A;America/New_York
+41N;Braceville Airport;412.111.675;-809.692.572;900;-5;A;America/New_York
+47A;Cherokee County Airport;343.122.175;-844.221.556;1219;-5;A;America/New_York
+49A;Gilmer County Airport;346.282.222;-845.265.833;1486;-5;A;America/New_York
+49X;Chemehuevi Valley;34.528.889;-114.431.971;638;-8;A;America/Los_Angeles
+4A4;Polk County Airport - Cornelius Moore Field;340.186.944;-851.464.722;974;-5;A;America/New_York
+4A7;Clayton County Tara Field;33.389.099;-84.332.397;874;-5;A;America/New_York
+4A9;Isbell Field Airport;344.736.944;-857.213.889;877;-6;A;America/Chicago
+4B8;Robertson Field;416.893.333;-728.646.944;202;-5;A;America/New_York
+4G0;Pittsburgh-Monroeville Airport;404.526.389;-797.749.167;1187;-5;A;America/New_York
+4G2;Hamburg Inc Airport;427.008.925;-789.147.569;751;-5;A;America/New_York
+4G4;Youngstown Elser Metro Airport;409.617.953;-806.773.264;1070;-5;A;America/New_York
+4I7;Putnam County Airport;396.335.556;-868.138.056;842;-5;U;America/New_York
+4U9;Dell Flight Strip;447.357.483;-1.127.200.133;6007;-7;A;America/Denver
+52A;Madison GA Municipal Airport;33.612.125;-834.604.444;694;-5;A;America/New_York
+54J;DeFuniak Springs Airport;307.311.111;-861.537.778;289;-6;A;America/Chicago
+55J;Fernandina Beach Municipal Airport;306.118.333;-814.611.944;16;-5;A;America/New_York
+55S;Packwood;463.625;-1.214.067;1057;-8;A;America/Los_Angeles
+57C;East Troy Municipal Airport;427.971.667;-883.726.111;860;-6;A;America/Chicago
+5B2;Saratoga County Airport;43.050.722;-73.861.638;433;-5;A;America/New_York
+60J;Ocean Isle Beach Airport;339.085.056;-784.366.722;32;-5;U;America/New_York
+6A2;Griffin-Spalding County Airport;332.269.722;-842.749.444;958;-5;A;America/New_York
+6J4;Saluda County;335.561;-814.768;539;-5;A;America/New_York
+6K8;Tok Junction Airport;63.329.444;-142.953.611;1639;-9;A;America/Anchorage
+6S0;Big Timber Airport;458.063.889;-1.099.811.111;4492;-7;A;America/Denver
+6S2;Florence;439.828.168;-1.241.113.687;51;-8;A;America/Los_Angeles
+6Y8;Welke Airport;45.721.111;-85.520.278;664;-5;A;America/New_York
+70J;Cairo-Grady County Airport;308.879.767;-841.547.353;265;-5;A;America/New_York
+70N;Spring Hill Airport;413.473.569;-754.158.972;1729;-5;A;America/New_York
+7A4;Foster Field;424.664.444;-901.693.889;990;-6;A;America/Chicago
+7D9;Germack Airport;417.778.322;-809.039.797;820;-5;A;America/New_York
+7N7;Spitfire Aerodrome;397.355.633;-753.977.211;40;-5;A;America/New_York
+8M8;Garland Airport;448.065.278;-842.761.944;1218;-5;A;America/New_York
+93C;Richland Airport;432.833.575;-902.982.819;742;-6;A;America/Chicago
+99N;Bamberg County Airport;333.045.278;-811.084.167;231;-5;A;America/New_York
+9A1;Covington Municipal Airport;336.323.083;-838.474.472;809;-5;A;America/New_York
+9A5;Barwick Lafayette Airport;346.884.792;-852.903.319;777;-5;A;America/New_York
+9G1;Rock Airport;406.035.463;-798.261.189;1063;-5;A;America/New_York
+A39;Phoenix Regional Airport;3.299.169.921.875;-111.920.997.619.629;1300;-7;A;America/Phoenix
+A50;Colorado Springs East;38.87;-104.41;6145;-7;A;America/Denver
+AAF;Apalachicola Regional Airport;297.276.066;-850.274.416;20;-5;A;America/New_York
+AAP;Andrau Airport;29.43;-95.35;80;-6;A;America/Chicago
+ABE;Lehigh Valley Intl;40.652.083;-75.440.806;393;-5;A;America/New_York
+ABI;Abilene Rgnl;32.411.319;-99.681.897;1791;-6;A;America/Chicago
+ABL;Ambler Airport;67.106.389;-1.578.575;334;-9;A;America/Anchorage
+ABQ;Albuquerque International Sunport;350.402.222;-1.066.091.944;5355;-7;A;America/Denver
+ABR;Aberdeen Regional Airport;454.491;-984.218;1302;-6;A;America/Chicago
+ABY;Southwest Georgia Regional Airport;315.355;-841.945;197;-5;A;America/New_York
+ACJ;Jimmy Carter Regional;320.665;-841.133;468;-5;A;America/New_York
+ACK;Nantucket Mem;41.253.053;-70.060.181;48;-5;A;America/New_York
+ACT;Waco Rgnl;31.611.289;-97.230.519;516;-6;A;America/Chicago
+ACV;Arcata;40.978.111;-124.108.611;221;-8;A;America/Los_Angeles
+ACY;Atlantic City Intl;39.457.583;-74.577.167;75;-5;A;America/New_York
+ADK;Adak Airport;51.878;-176.646;18;-9;A;America/Anchorage
+ADM;Ardmore Muni;34.300.833;-97.008.889;762;-6;A;America/Chicago
+ADQ;Kodiak;57.749.967;-152.493.856;78;-9;A;America/Anchorage
+ADS;Addison;329.685.594;-968.364.478;644;-6;A;America/Chicago
+ADW;Andrews Afb;38.810.806;-76.867.028;280;-5;A;America/New_York
+AET;Allakaket Airport;665.519;-1.526.222;441;-9;A;America/Anchorage
+AEX;Alexandria Intl;313.274;-92.549.833;89;-6;A;America/Chicago
+AFE;Kake Airport;56.961.389;-133.910.278;172;-9;A;America/Anchorage
+AFW;Fort Worth Alliance Airport;32.987.778;-97.318.889;722;-6;A;America/Chicago
+AGC;Allegheny County Airport;403.544;-799.302;1252;-5;A;America/New_York
+AGN;Angoon Seaplane Base;57.503.611;-134.585;0;-9;A;America/Anchorage
+AGS;Augusta Rgnl At Bush Fld;33.369.944;-819.645;144;-5;A;America/New_York
+AHN;Athens Ben Epps Airport;339.486;-833.263;808;-5;A;America/New_York
+AIA;Alliance Municipal Airport;42.053.333;-102.803.889;3931;-7;A;America/Denver
+AIK;Municipal Airport;336.493.889;-816.850.278;529;-5;A;America/New_York
+AIN;Wainwright Airport;70.638.056;-159.994.722;41;-9;A;America/Anchorage
+AIZ;Lee C Fine Memorial Airport;38.096.035;-925.494.875;869;-6;A;America/Chicago
+AKB;Atka Airport;52.220.278;-174.206.389;56;-9;A;America/Anchorage
+AKC;Akron Fulton Intl;410.375;-81.466.917;1067;-5;A;America/New_York
+AKI;Akiak Airport;60.902.778;-161.230.556;30;-9;A;America/Anchorage
+AKK;Akhiok Airport;56.938.611;-1.541.825;44;-9;A;America/Anchorage
+AKN;King Salmon;58.676.778;-156.649.278;68;-9;A;America/Anchorage
+AKP;Anaktuvuk Pass Airport;681.336;-151.743;2103;-9;A;America/Anchorage
+ALB;Albany Intl;42.748.267;-73.801.692;285;-5;A;America/New_York
+ALI;Alice Intl;27.740.889;-98.026.944;178;-6;A;America/Chicago
+ALM;Alamogordo White Sands Regional Airport;328.399;-105.991;4200;-7;A;America/Denver
+ALO;Waterloo Regional Airport;425.571;-924.003;873;-6;A;America/Chicago
+ALS;San Luis Valley Regional Airport;37.435;-105.866.667;7539;-7;A;America/Denver
+ALW;Walla Walla Regional Airport;460.949;-118.288;1191;-8;A;America/Los_Angeles
+ALX;Alexandria;38.806.346;-770.621;1;-5;A;America/New_York
+ALZ;Alitak Seaplane Base;56.899.444;-154.247.778;0;-9;A;America/Anchorage
+AMA;Rick Husband Amarillo Intl;35.219.369;-101.705.931;3607;-6;A;America/Chicago
+ANB;Anniston Metro;33.588.167;-85.858.111;612;-6;A;America/Chicago
+ANC;Ted Stevens Anchorage Intl;61.174.361;-149.996.361;152;-9;A;America/Anchorage
+AND;Anderson Rgnl;34.494.583;-82.709.389;782;-5;A;America/New_York
+ANI;Aniak Airport;615.816;-159.543;88;-9;A;America/Anchorage
+ANN;Annette Island;55.042.436;-131.572.233;119;-9;A;America/Anchorage
+ANP;Lee Airport;38.942.778;-76.568.333;34;-5;A;America/New_York
+ANQ;Tri-State Steuben County Airport;416.396.983;-850.834.933;995;-5;A;America/New_York
+ANV;Anvik Airport;626.467;-160.191;309;-9;A;America/Anchorage
+AOH;Lima Allen County Airport;40.707.478;-840.270.781;975;-5;A;America/New_York
+AOO;Altoona Blair Co;40.296.372;-78.320.022;1504;-5;A;America/New_York
+AOS;Amook Bay Seaplane Base;57.471.389;-153.815.278;0;-9;A;America/Anchorage
+APA;Centennial;39.570.129;-104.849.294;5883;-7;A;America/Denver
+APC;Napa County Airport;382.131.944;-1.222.806.944;35;-8;A;America/Los_Angeles
+APF;Naples Muni;26.152.619;-81.775.294;8;-5;A;America/New_York
+APG;Phillips Aaf;39.466.219;-76.168.808;57;-5;A;America/New_York
+APN;Alpena County Regional Airport;450.781;-835.603;689;-5;A;America/New_York
+AQC;Klawock Seaplane Base;55.554.658;-133.101.693;0;-9;A;America/Anchorage
+ARA;Acadiana Rgnl;30.037.758;-91.883.896;24;-6;A;America/Chicago
+ARB;Ann Arbor Municipal Airport;42.132.274;-83.444.418;839;-5;A;America/New_York
+ARC;Arctic Village Airport;681.147;-145.579;2092;-9;A;America/Anchorage
+ART;Watertown Intl;43.991.922;-76.021.739;325;-5;A;America/New_York
+ARV;Lakeland;45.927.778.000.000.000;-89.730.833;1629;-6;A;America/Chicago
+ASE;Aspen Pitkin County Sardy Field;392.232;-106.869;7820;-7;A;America/Denver
+ASH;Boire Field Airport;4.278.175;-715.147.778;199;-5;A;America/New_York
+AST;Astoria Regional Airport;46.157.972;-123.878.694;15;-8;A;America/Los_Angeles
+ATK;Atqasuk Edward Burnell Sr Memorial Airport;704.673;-157.436;96;-9;A;America/Anchorage
+ATL;Hartsfield Jackson Atlanta Intl;33.636.719;-84.428.067;1026;-5;A;America/New_York
+ATT;Camp Mabry Austin City;3.031.666;-977.666;0;-6;A;America/Chicago
+ATW;Appleton;44.257.526;-88.507.576;680;-6;A;America/Chicago
+ATY;Watertown Regional Airport;44.914;-971.547;1748;-6;A;America/Chicago
+AUG;Augusta State;44.320.647;-69.797.317;352;-5;A;America/New_York
+AUK;Alakanuk Airport;62.68;-164.66;10;-9;A;America/Anchorage
+AUO;Auburn University Regional;323.691;-852.604;777;-6;A;America/Chicago
+AUS;Austin Bergstrom Intl;30.194.528;-97.669.889;542;-6;A;America/Chicago
+AUW;Wausau Downtown Airport;449.262.845;-896.270.018;1201;-6;U;America/Chicago
+AVL;Asheville Regional Airport;35.436.194;-82.541.806;2165;-5;A;America/New_York
+AVO;Executive;27.591.389;-81.528.889;160;-5;A;America/New_York
+AVP;Wilkes Barre Scranton Intl;41.338.478;-75.723.403;962;-5;A;America/New_York
+AVW;Marana Regional;32.409.556;-111.218.388;2031;-7;U;America/Phoenix
+AVX;Avalon;33.405;-118.415.833;1602;-8;A;America/Los_Angeles
+AZA;Phoenix-Mesa Gateway;33.307.833;-111.655;1382;-7;N;America/Phoenix
+AZO;Kalamazoo;42.234.875;-85.552.058;874;-5;A;America/New_York
+BAB;Beale Afb;39.136.089;-121.436.567;113;-8;A;America/Los_Angeles
+BAD;Barksdale Afb;3.250.182;-93.662.674;166;-6;A;America/Chicago
+BAF;Barnes Municipal;421.579.472;-72.715.875;270;-5;A;America/New_York
+BBX;Wings Field;401.375;-75.265;302;-5;A;America/New_York
+BCE;Bryce Canyon;37.706.444;-112.145.806;7590;-7;A;America/Denver
+BCT;Boca Raton;263.785;-80.107.694;13;-5;A;America/New_York
+BDE;Baudette Intl;48.728.444;-94.612.222;1086;-6;A;America/Chicago
+BDL;Bradley Intl;41.938.889;-72.683.222;173;-5;A;America/New_York
+BDR;Igor I Sikorsky Mem;41.163.472;-73.126.167;9;-5;A;America/New_York
+BEC;Beech Factory Airport;376.939.167;-972.149.167;1409;-6;A;America/Chicago
+BED;Laurence G Hanscom Fld;42.469.953;-71.289.031;133;-5;A;America/New_York
+BEH;Southwest Michigan Regional Airport;421.285.833;-864.285;643;-5;A;America/New_York
+BET;Bethel;60.779.778;-161.838;121;-9;A;America/Anchorage
+BFD;Bradford Regional Airport;418.031;-786.401;2143;-5;A;America/New_York
+BFF;Western Nebraska Regional Airport;41.874;-103.596;3967;-7;A;America/Denver
+BFI;Boeing Fld King Co Intl;47.53;-122.301.947;21;-8;A;America/Los_Angeles
+BFL;Meadows Fld;35.433.598;-11.905.677;507;-8;A;America/Los_Angeles
+BFM;Mobile Downtown;30.626.783;-88.068.092;26;-6;A;America/Chicago
+BFP;Beaver Falls;407.724.722;-803.914.444;1253;-5;A;America/New_York
+BFT;Beaufort;32.477.411;-80.723.161;37;-5;A;America/New_York
+BGE;Decatur County Industrial Air Park;309.715.981;-846.369.278;141;-5;A;America/New_York
+BGM;Greater Binghamton Edwin A Link Fld;42.208.689;-75.979.839;1636;-5;A;America/New_York
+BGR;Bangor Intl;44.807.444;-68.828.139;192;-5;A;America/New_York
+BHB;Hancock County - Bar Harbor;444.497.689;-683.615.653;83;-5;A;America/New_York
+BHM;Birmingham Intl;33.562.942;-8.675.355;644;-6;A;America/Chicago
+BID;Block Island State Airport;41.168.056;-71.577.778;108;-5;A;America/New_York
+BIF;Biggs Aaf;31.849.528;-106.380.039;3948;-7;A;America/Denver
+BIG;Allen Aaf;63.994.547;-145.721.642;1291;-9;A;America/Anchorage
+BIL;Billings Logan International Airport;4.580.921;-108.537.654;3652;-7;A;America/Denver
+BIS;Bismarck Municipal Airport;46.775.842;-100.757.931;1661;-6;A;America/Chicago
+BIV;Tulip City Airport;427.427.778;-861.078.333;698;-5;A;America/New_York
+BIX;Keesler Afb;30.410.425;-88.924.433;33;-6;A;America/Chicago
+BJC;Rocky Mountain Metropolitan Airport;3.990.888.888;-10.511.722.222;5670;-7;A;America/Denver
+BJI;Bemidji Regional Airport;47.510.722;-94.934.722;1391;-6;A;America/Chicago
+BKC;Buckland Airport;65.981.667;-161.149.167;31;-9;A;America/Anchorage
+BKD;Stephens Co;32.719.047;-98.891;1284;-6;A;America/Chicago
+BKF;Buckley Afb;39.701.668;-10.475.166;5662;-7;A;America/Denver
+BKG;Branson LLC;36.531.994;-93.200.556;1302;-6;A;America/Chicago
+BKH;Barking Sands Pmrf;22.022.833;-159.785;23;-10;A;Pacific/Honolulu
+BKL;Burke Lakefront Airport;415.175;-81.683.333;583;-5;A;America/New_York
+BKW;Raleigh County Memorial Airport;377.873;-811.242;2504;-5;A;America/New_York
+BKX;Brookings Regional Airport;443.048;-968.169;1648;-6;A;America/Chicago
+BLD;Boulder City Municipal Airport;355.651;-114.514;2201;-7;U;America/Phoenix
+BLF;Mercer County Airport;372.958;-812.077;2857;-5;A;America/New_York
+BLH;Blythe Airport;33.619.167;-114.716.889;399;-8;A;America/Los_Angeles
+BLI;Bellingham Intl;48.792.694;-122.537.528;170;-8;A;America/Los_Angeles
+BLV;Scott Afb Midamerica;38.545.178;-89.835.183;459;-6;A;America/Chicago
+BMC;Brigham City;41.552;-112.062;4229;-7;A;America/Denver
+BMG;Monroe County Airport;391.460.208;-866.166.805;846;-5;A;America/New_York
+BMI;Central Illinois Rgnl;40.477.111;-88.915.917;871;-6;A;America/Chicago
+BMT;Beaumont Municipal;300.702.044;-942.150.967;32;-6;A;America/Chicago
+BMX;Big Mountain Afs;59.361.247;-155.258.822;663;-9;A;America/Anchorage
+BNA;Nashville Intl;36.124.472;-86.678.194;599;-6;A;America/Chicago
+BOI;Boise Air Terminal;43.564.361;-116.222.861;2871;-7;A;America/Denver
+BOS;General Edward Lawrence Logan Intl;42.364.347;-71.005.181;19;-5;A;America/New_York
+BOW;Bartow Municipal Airport;279.434;-817.834;125;-5;U;America/New_York
+BPT;Southeast Texas Rgnl;29.950.833;-94.020.694;15;-6;A;America/Chicago
+BQK;Brunswick Golden Isles Airport;312.588;-814.665;26;-5;A;America/New_York
+BRD;Brainerd Lakes Rgnl;46.398.308;-94.138.078;1226;-6;U;America/Chicago
+BRL;Southeast Iowa Regional Airport;407.832;-911.255;698;-6;A;America/Chicago
+BRO;Brownsville South Padre Island Intl;25.906.833;-97.425.861;22;-6;A;America/Chicago
+BRW;Wiley Post Will Rogers Mem;71.285.446;-156.766.003;44;-9;A;America/Anchorage
+BSF;Bradshaw Aaf;19.760.056;-155.553.717;6190;-10;A;Pacific/Honolulu
+BTI;Barter Island Lrrs;70.133.989;-143.581.867;2;-9;A;America/Anchorage
+BTM;Bert Mooney Airport;45.954.806;-112.497.472;5550;-7;A;America/Denver
+BTR;Baton Rouge Metro Ryan Fld;30.533.167;-91.149.639;70;-6;A;America/Chicago
+BTT;Bettles;66.913.944;-151.529.056;644;-9;A;America/Anchorage
+BTV;Burlington Intl;44.471.861;-73.153.278;335;-5;A;America/New_York
+BUF;Buffalo Niagara Intl;42.940.525;-78.732.167;724;-5;A;America/New_York
+BUR;Bob Hope;34.200.667;-118.358.667;778;-8;A;America/Los_Angeles
+BUU;Municipal Airport;426.907.171;-883.046.825;780;-6;A;America/Chicago
+BUY;Burlington-Alamance Regional Airport;360.485.433;-794.748.892;617;-5;A;America/New_York
+BVY;Beverly Municipal Airport;42.584.141;-709.161.444;107;-5;A;America/New_York
+BWD;KBWD;317.936.111;-989.565;1387;-6;A;America/Chicago
+BWG;Bowling Green-Warren County Regional Airport;369.645.278;-864.196.667;547;-6;A;America/Chicago
+BWI;Baltimore Washington Intl;39.175.361;-76.668.333;146;-5;A;America/New_York
+BXK;Buckeye Municipal Airport;33.420.417;-11.268.618;1033;-7;U;America/Phoenix
+BXS;Borrego Valley Airport;332.590.278;-1.163.209.722;520;-8;A;America/Los_Angeles
+BYH;Arkansas Intl;35.964.347;-89.943.956;254;-6;A;America/Chicago
+BYS;Bicycle Lake Aaf;35.280.531;-116.630.031;2350;-8;A;America/Los_Angeles
+BYW;Blakely Island Airport;4.856.025;-12.280.243;0;-8;A;America/Los_Angeles
+BZN;Gallatin Field;45.777.643;-111.160.151;4500;-7;A;America/Denver
+C02;Grand Geneva Resort Airport;426.149.167;-883.895.833;835;-6;U;America/Chicago
+C16;Frasca Field;40.144.979;-88.200.197;735;-6;A;America/Chicago
+C47;Portage Municipal Airport;435.603.136;-894.828.607;825;-6;U;America/Chicago
+C65;Plymouth Municipal Airport;413.651.307;-863.002.574;800;-5;A;America/New_York
+C89;Sylvania Airport;4.270.325;-879.589.722;785;-6;A;America/Chicago
+C91;Dowagiac Municipal Airport;419.929.342;-861.280.125;748;-5;U;America/New_York
+CAE;Columbia Metropolitan;33.938.833;-81.119.528;236;-5;A;America/New_York
+CAK;Akron Canton Regional Airport;409.160.833;-814.421.944;1228;-5;A;America/New_York
+CAR;Caribou Muni;468.715;-68.017.917;626;-5;A;America/New_York
+CBE;Greater Cumberland Rgnl.;39.615.278.000.000.000;-78.760.556;775;-5;A;America/New_York
+CBM;Columbus Afb;33.643.833;-88.443.833;219;-6;A;America/Chicago
+CCO;Coweta County Airport;333.115.656;-847.697.554;970;-5;A;America/New_York
+CCR;Buchanan Field Airport;379.896.667;-1.220.568.889;26;-8;A;America/Los_Angeles
+CDB;Cold Bay;55.206.061;-162.725.436;96;-9;A;America/Anchorage
+CDC;Cedar City Rgnl;37.700.967;-113.098.847;5622;-7;A;America/Denver
+CDI;Cambridge Municipal Airport;399.750.278;-815.775.833;799;-5;U;America/New_York
+CDK;CedarKey;291.342.222;-830.504.722;11;-5;A;America/New_York
+CDN;Woodward Field;342.835.833;-805.648.611;302;-5;A;America/New_York
+CDR;Chadron Municipal Airport;428.375;-103.095.556;3297;-7;A;America/Denver
+CDS;Childress Muni;34.433.781;-100.287.992;1954;-6;A;America/Chicago
+CDV;Merle K Mudhole Smith;60.491.778;-145.477.556;48;-9;A;America/Anchorage
+CDW;Caldwell Essex County Airport;408.752.222;-742.813.611;172;-5;A;America/New_York
+CEC;Del Norte County Airport;417.802;-124.237;57;-8;A;America/Los_Angeles
+CEF;Westover Arb Metropolitan;42.194.014;-72.534.783;241;-5;A;America/New_York
+CEM;Central Airport;65.573.889;-144.780.833;937;-9;A;America/Anchorage
+CEU;Clemson;346.722.222;-828.858.889;891;-5;A;America/New_York
+CEW;Bob Sikes;30.778.833;-86.522.111;213;-6;A;America/Chicago
+CEZ;Cortez Muni;37.303;-108.628.056;5918;-7;A;America/Denver
+CFD;Coulter Fld;30.715.694;-96.331.361;367;-6;A;America/Chicago
+CGA;Craig Seaplane Base;55.478.889;-133.147.778;0;-9;A;America/Anchorage
+CGC;Crystal River;288.676.111;-825.741.111;9;-5;A;America/New_York
+CGF;Cuyahoga County;41.565.124;-814.863.555;879;-5;A;America/New_York
+CGI;Cape Girardeau Regional Airport;372.253;-895.708;342;-6;A;America/Chicago
+CGX;Meigs Field;41.860.278;-87.609.722;585;-6;A;America/Chicago
+CGZ;Casa Grande Municipal Airport;32.954.889;-111.766.832;1464;-7;U;America/Phoenix
+CHA;Lovell Fld;35.035.278;-85.203.808;683;-5;A;America/New_York
+CHI;All Airports;41.883.611;-87.631.667;596;-6;A;America/Chicago
+CHO;Charlottesville-Albemarle;38.138.639;-78.452.861;639;-5;A;America/New_York
+CHS;Charleston Afb Intl;32.898.647;-80.040.528;45;-5;A;America/New_York
+CHU;Chuathbaluk Airport;61.579.167;-159.215.556;243;-9;A;America/Anchorage
+CIC;Chico Muni;39.795.383;-121.858.422;238;-8;A;America/Los_Angeles
+CID;Cedar Rapids;41.884.694;-91.710.806;869;-6;A;America/Chicago
+CIK;Chalkyitsik Airport;66.645;-143.74;544;-9;A;America/Anchorage
+CIL;Council Airport;64.897.778;-163.703.333;85;-9;A;America/Anchorage
+CIU;Chippewa County International Airport;462.508;-844.724;800;-5;A;America/New_York
+CKB;Harrison Marion Regional Airport;392.966;-802.281;1217;-5;A;America/New_York
+CKD;Crooked Creek Airport;61.867.778;-158.135;178;-9;A;America/Anchorage
+CKF;Crisp County Cordele Airport;319.888.333;-837.739.167;310;-5;A;America/New_York
+CKV;Clarksville-Montgomery County Regional Airport;36.621.944;-87.415;550;-6;A;America/Chicago
+CLC;Clear Lake Metroport;295.569;-95.137.497;35;-6;A;America/Chicago
+CLD;McClellan-Palomar Airport;330.742;-1.171.648;328;-8;A;America/Los_Angeles
+CLE;Cleveland Hopkins Intl;41.411.689;-81.849.794;791;-5;A;America/New_York
+CLL;Easterwood Fld;30.588.583;-96.363.833;321;-6;A;America/Chicago
+CLM;William R Fairchild International Airport;481.202;-123.5;291;-8;A;America/Los_Angeles
+CLS;Chehalis-Centralia;464.062;-1.225.897;177;-8;A;America/Los_Angeles
+CLT;Charlotte Douglas Intl;35.214;-80.943.139;748;-5;A;America/New_York
+CLW;Clearwater Air Park;279.764.722;-827.586.667;70;-5;A;America/New_York
+CMH;Port Columbus Intl;39.997.972;-82.891.889;815;-5;A;America/New_York
+CMI;Champaign;4.003.925;-88.278.056;754;-6;A;America/Chicago
+CMX;Houghton County Memorial Airport;471.684;-884.891;1095;-5;A;America/New_York
+CNM;Cavern City Air Terminal;32.337.472;-104.263.278;3295;-7;A;America/Denver
+CNW;Tstc Waco;31.637.831;-97.074.139;470;-6;A;America/Chicago
+CNY;Canyonlands Field;38.755;-109.754.722;4555;-7;A;America/Denver
+COD;Yellowstone Rgnl;44.520.194;-109.023.806;5102;-7;A;America/Denver
+COE;Pappy Boyington;477.743.056;-1.168.195.833;2320;-8;A;America/Los_Angeles
+COF;Patrick Afb;28.234.922;-80.610.125;8;-5;A;America/New_York
+COI;Merritt Island Airport;283.416.111;-806.854.722;6;-5;A;America/New_York
+CON;Concord Municipal;4.320.267;-7.150.233;342;-5;A;America/New_York
+COS;City Of Colorado Springs Muni;38.805.805;-104.700.778;6187;-7;A;America/Denver
+COT;Cotulla Lasalle Co;28.456.694;-99.220.294;474;-6;A;America/Chicago
+COU;Columbia Rgnl;38.818.094;-92.219.631;889;-6;A;America/Chicago
+CPR;Natrona Co Intl;42.908;-106.464.417;5347;-7;A;America/Denver
+CPS;St. Louis Downtown Airport;385.707.244;-901.562.211;413;-6;U;America/Chicago
+CRE;Grand Strand Airport;3.381.175;-787.239.444;31;-5;A;America/New_York
+CRP;Corpus Christi Intl;27.770.361;-97.501.222;44;-6;A;America/Chicago
+CRW;Yeager;38.373.147;-81.593.189;981;-5;A;America/New_York
+CSG;Columbus Metropolitan Airport;325.163.333;-849.388.611;397;-5;A;America/New_York
+CTB;Cut Bank Muni;48.608.353;-112.376.144;3854;-7;A;America/Denver
+CTH;Chester County G O Carlson Airport;399.789;-758.654;660;-5;A;America/New_York
+CTJ;West Georgia Regional Airport - O V Gray Field;336.316.964;-851.522.641;1165;-5;A;America/New_York
+CTY;Cross City;296.355.278;-8.310.475;42;-5;A;America/New_York
+CVG;Cincinnati Northern Kentucky Intl;39.048.836;-84.667.822;896;-5;A;America/New_York
+CVN;Clovis Muni;34.425.139;-103.079.278;4216;-7;A;America/Denver
+CVO;Corvallis Muni;445.067;-1.232.915;250;-8;A;America/Los_Angeles
+CVS;Cannon Afb;34.382.775;-103.322.147;4295;-7;A;America/Denver
+CVX;Charlevoix Municipal Airport;453.047.778;-852.753.333;669;-5;A;America/New_York
+CWA;Central Wisconsin;44.772.726;-89.646.635;840;-6;A;America/Chicago
+CWI;Clinton Municipal;4.183.075;-903.289.722;708;-6;A;America/Chicago
+CWT;Chatsworth Station;34.256.944;-118.598.889;978;-8;A;America/Los_Angeles
+CXF;Coldfoot Airport;67.251.389;-150.176.111;1014;-9;A;America/Anchorage
+CXL;Calexico Intl;32.669.502;-11.551.333;4;-8;A;America/Los_Angeles
+CXO;Lone Star Executive;30.351.833;-95.414.467;245;-6;A;America/Chicago
+CXY;Capital City Airport;402.171.389;-768.513.611;347;-5;A;America/New_York
+CYF;Chefornak Airport;60.149.167;-164.285.556;40;-9;A;America/Anchorage
+CYM;Chatham Seaplane Base;57.515;-134.946.111;0;-9;A;America/Anchorage
+CYS;Cheyenne Rgnl Jerry Olson Fld;41.155.722;-104.811.839;6156;-7;A;America/Denver
+CYT;Yakataga Airport;60.081.901;-142.493.611;12;-9;A;America/Anchorage
+CZF;Cape Romanzof Lrrs;61.780.297;-166.038.747;457;-9;A;America/Anchorage
+CZG;Tri-Cities;420.471;-760.578;833;-5;A;America/New_York
+CZN;Chisana Airport;62.071.111;-142.048.333;1011;-9;A;America/Anchorage
+DAB;Daytona Beach Intl;29.179.917;-81.058.056;34;-5;A;America/New_York
+DAL;Dallas Love Fld;32.847.111;-96.851.778;487;-6;A;America/Chicago
+DAW;Skyhaven Airport;432.840.556;-709.292.778;321;-5;A;America/New_York
+DAY;James M Cox Dayton Intl;39.902.375;-84.219.375;1009;-5;A;America/New_York
+DBN;W H Barron Field;323.388;-82.591;311;-5;A;America/New_York
+DBQ;Dubuque Rgnl;42.402;-90.709.472;1076;-6;A;America/Chicago
+DCA;Ronald Reagan Washington Natl;38.852.083;-77.037.722;15;-5;A;America/New_York
+DDC;Dodge City Regional Airport;377.634;-999.656;2594;-6;A;America/Chicago
+DEC;Decatur;39.834.564;-88.865.689;682;-6;A;America/Chicago
+DEN;Denver Intl;39.861.656;-104.673.178;5431;-7;A;America/Denver
+DET;Coleman A Young Muni;42.409.195;-83.009.861;626;-5;A;America/New_York
+DFW;Dallas Fort Worth Intl;32.896.828;-97.037.997;607;-6;A;America/Chicago
+DGL;Douglas Municipal Airport;313.426.028;-1.095.064.544;4173;-7;N;America/Phoenix
+DHB;Deer Harbor Seaplane;48.618.397;-12.300.596;0;-8;A;America/Los_Angeles
+DHN;Dothan Rgnl;31.321.339;-85.449.628;401;-6;A;America/Chicago
+DHT;Dalhart Muni;36.022.586;-102.547.278;3991;-6;A;America/Chicago
+DIK;Dickinson Theodore Roosevelt Regional Airport;467.975;-102.801.944;2592;-7;A;America/Denver
+DKB;De Kalb Taylor Municipal Airport;419.338.342;-887.056.864;914;-6;U;America/Chicago
+DKK;Chautauqua County-Dunkirk Airport;424.933.353;-792.720.417;693;-5;A;America/New_York
+DKX;Knoxville Downtown Island Airport;359.638.333;-838.736.667;833;-5;A;America/New_York
+DLF;Laughlin Afb;29.359.486;-100.777.975;1082;-6;A;America/Chicago
+DLG;Dillingham;59.044.667;-1.585.055;74;-9;A;America/Anchorage
+DLH;Duluth Intl;46.842.091;-92.193.649;1428;-6;A;America/Chicago
+DLL;Baraboo Wisconsin Dells Airport;435.217.843;-897.709.266;979;-6;A;America/Chicago
+DMA;Davis Monthan Afb;32.166.467;-110.883.144;2704;-7;A;America/Phoenix
+DNL;Daniel Field Airport;334.665.028;-820.393.808;423;-5;A;America/New_York
+DNN;Dalton Municipal Airport;347.229.444;-8.487.025;709;-5;A;America/New_York
+DNV;Vermilion Regional;401.996.944;-875.955.278;696;-6;A;America/Chicago
+DOV;Dover Afb;39.129.539;-75.465.958;28;-5;A;America/New_York
+DPA;Dupage;41.907.778;-88.248.611;758;-6;A;America/Chicago
+DQH;Douglas Municipal Airport;314.767.385;-828.605.664;257;-5;A;America/New_York
+DRG;Deering Airport;660.696;-162.766;21;-9;A;America/Anchorage
+DRI;Beauregard Rgnl;30.831.722;-93.339.917;202;-6;A;America/Chicago
+DRM;Drummond Island Airport;460.093.114;-837.439.342;668;-5;A;America/New_York
+DRO;Durango La Plata Co;37.151.516;-10.775.377;6685;-7;A;America/Denver
+DRT;Del Rio Intl;29.374.208;-100.927.158;1002;-6;A;America/Chicago
+DSM;Des Moines Intl;41.533.972;-93.663.083;958;-6;A;America/Chicago
+DTA;Delta Municipal Airport;393.806.386;-1.125.077.147;4759;-7;A;America/Denver
+DTS;Destin;304.000.611;-864.714.772;23;-6;A;America/Chicago
+DTW;Detroit Metro Wayne Co;42.212.444;-83.353.389;645;-5;A;America/New_York
+DUC;Halliburton Field Airport;344.713.056;-979.598.611;1114;-6;A;America/Chicago
+DUG;Bisbee Douglas Intl;31.469.028;-109.603.667;4154;-7;A;America/Phoenix
+DUJ;DuBois Regional Airport;411.783;-788.987;1817;-5;A;America/New_York
+DUT;Unalaska;53.900.139;-1.665.435;22;-9;A;America/Anchorage
+DVL;Devils Lake Regional Airport;48.114.444;-98.908.611;1445;-6;A;America/Chicago
+DVT;Deer Valley Municipal Airport;334.117;112.457;1478;8;A;Asia/Chongqing
+DWA;Yolo County Airport;385.793.889;-1.218.569.444;100;-8;A;America/Los_Angeles
+DWH;David Wayne Hooks Field;30.063.746;-95.554.276;152;-6;A;America/Chicago
+DWS;Orlando;28.398;-81.57;340;-5;A;America/New_York
+DXR;Danbury Municipal Airport;413.715.353;-734.821.906;458;-5;A;America/New_York
+DYS;Dyess Afb;32.420.756;-998.546;1789;-6;A;America/Chicago
+E25;Wickenburg Municipal Airport;3.396.889.877;-1.127.990.036;2377;-7;A;America/Phoenix
+E51;Bagdad Airport;345.958.528;-113.170.195;4183;-7;A;America/Phoenix
+E55;Ocean Ridge Airport;388.016.111;-1.235.306.389;940;-8;A;America/Los_Angeles
+E63;Gila Bend Municipal Airport;32.960.169;-112.673.636;789;-7;U;America/Phoenix
+E91;Chinle Municipal Airport;361.108.806;-1.095.754.222;5547;-7;N;America/Denver
+EAA;Eagle Airport;64.778.056;-141.149.722;908;-9;A;America/Anchorage
+EAR;Kearney Municipal Airport;40.727;-990.068;2131;-6;A;America/Chicago
+EAT;Pangborn Field;47.398;-120.206;1249;-8;A;America/Los_Angeles
+EAU;Chippewa Valley Regional Airport;448.658;-914.843;913;-6;A;America/Chicago
+ECA;Iosco County;44.311;-83.422;606;-5;A;America/New_York
+ECG;Elizabeth City Cgas Rgnl;36.260.581;-76.174.572;12;-5;A;America/New_York
+ECP;Panama City-NW Florida Bea.;303.417;-857.973;69;-6;A;America/Chicago
+EDF;Elmendorf Afb;61.250.986;-149.806.503;212;-9;A;America/Anchorage
+EDW;Edwards Afb;34.905.417;-117.883.739;2302;-8;A;America/Los_Angeles
+EEK;Eek Airport;60.213.611;-162.043.889;15;-9;A;America/Anchorage
+EEN;Dillant Hopkins Airport;72.270.833;42.898.333;149;-5;A;NA
+EET;Shelby County Airport;331.777.778;-867.832.222;586;-6;A;America/Chicago
+EFD;Ellington Fld;29.607.333;-9.515.875;32;-6;A;America/Chicago
+EGA;Eagle County Airport;396.427.611;-1.069.159.347;6548;-7;U;America/Denver
+EGE;Eagle Co Rgnl;39.642.556;-106.917.694;6540;-7;A;America/Denver
+EGT;Wellington Municipal;3.739.411;-97.423.225;1277;-6;A;America/Chicago
+EGV;Eagle River;45.932.333;-89.268.283;1642;-6;A;America/Chicago
+EGX;Egegik Airport;58.185.556;-157.375.556;92;-9;A;America/Anchorage
+EHM;Cape Newenham Lrrs;58.646.428;-162.062.778;541;-9;A;America/Anchorage
+EIL;Eielson Afb;64.665.667;-1.471.015;548;-9;A;America/Anchorage
+EKI;Elkhart Municipal;41.719.444;-86.003.333;778;-5;A;America/New_York
+EKN;Elkins Randolph Co Jennings Randolph;38.889.444;-79.857.139;1987;-5;A;America/New_York
+EKO;Elko Regional Airport;408.249;-115.792;5140;-8;A;America/Los_Angeles
+EKY;Bessemer;331.876;-865.558;700;-6;A;America/Chicago
+ELD;South Arkansas Rgnl At Goodwin Fld;33.220.972;-92.813.278;277;-6;A;America/Chicago
+ELI;Elim Airport;64.615;-162.270.556;162;-9;A;America/Anchorage
+ELM;Elmira Corning Rgnl;42.159.889;-76.891.611;954;-5;A;America/New_York
+ELP;El Paso Intl;3.180.725;-106.377.583;3958;-7;A;America/Denver
+ELV;Elfin Cove Seaplane Base;58.195.278;-1.363.475;0;-9;A;America/Anchorage
+ELY;Ely Airport;39.299.722;-114.841.944;6259;-8;A;America/Los_Angeles
+EMK;Emmonak Airport;62.786.111;-164.490.833;13;-9;A;America/Anchorage
+EMP;Emporia Municipal Airport;383.321;-961.912;1208;-6;A;America/Chicago
+ENA;Kenai Muni;60.573.111;-151.245;99;-9;A;America/Anchorage
+END;Vance Afb;36.339.167;-979.165;1307;-6;A;America/Chicago
+ENV;Wendover;40.718.694;-114.030.889;4237;-7;A;America/Denver
+ENW;Kenosha Regional Airport;425.956.944;-879.278.056;742;-6;A;America/Chicago
+EOK;Keokuk Municipal Airport;404.599.078;-914.285.011;671;-6;A;America/Chicago
+EPM;Eastport Municipal Airport;449.101.111;-670.126.944;45;-5;A;America/New_York
+EQY;Monroe Reqional Airport;3.501.833;-8.062.001;679;-5;A;America/New_York
+ERI;Erie Intl Tom Ridge Fld;42.082.022;-80.176.217;733;-5;A;America/New_York
+ERV;Kerrville Municipal Airport;299.766.667;-990.854.722;1617;-6;A;America/Chicago
+ERY;Luce County Airport;46.311.199;-85.457.298;869;-5;A;America/New_York
+ESC;Delta County Airport;45.722.778;-87.093.611;609;-5;A;America/New_York
+ESD;Orcas Island Airport;48.708.056;-122.910.556;31;-8;A;America/Los_Angeles
+ESF;Esler Rgnl;31.394.903;-92.295.772;112;-6;A;America/Chicago
+ESN;Easton-Newnam Field Airport;388.041.667;-76.069;72;-5;A;America/New_York
+EUF;Weedon Field;315.708;-850.774;285;-6;A;America/Chicago
+EUG;Mahlon Sweet Fld;44.124.583;-123.211.972;374;-8;A;America/Los_Angeles
+EVV;Evansville Regional;38.036.997;-87.532.364;418;-6;A;America/Chicago
+EVW;Evanston-Uinta CO Burns Fld;411.649;-1.110.208;7143;-7;A;America/Denver
+EWB;New Bedford Regional Airport;416.761;-709.569;80;-5;A;America/New_York
+EWK;Newton City-County Airport;380.570.785;-972.752.278;1533;-6;A;America/Chicago
+EWN;Craven Co Rgnl;35.072.972;-77.042.944;18;-5;A;America/New_York
+EWR;Newark Liberty Intl;406.925;-74.168.667;18;-5;A;America/New_York
+EXI;Excursion Inlet Seaplane Base;58.420.556;-135.449.167;0;-9;A;America/Anchorage
+EYW;Key West Intl;24.556.111;-81.759.556;3;-5;A;America/New_York
+F57;Seaplane Base;280.575;-817.628.056;140;-5;A;America/New_York
+FAF;Felker Aaf;371.325;-76.608.841;12;-5;A;America/New_York
+FAI;Fairbanks Intl;64.815.114;-147.856.267;434;-9;A;America/Anchorage
+FAR;Hector International Airport;4.692.065;-968.157.639;902;-6;A;America/Chicago
+FAT;Fresno Yosemite Intl;36.776.194;-11.971.814;336;-8;A;America/Los_Angeles
+FAY;Fayetteville Regional Grannis Field;349.912;-788.803;189;-5;A;America/New_York
+FBG;Fredericksburg Amtrak Station;38.298.416;-77.456.875;130;-5;A;America/New_York
+FBK;Ladd Aaf;648.375;-147.614.444;454;-9;A;America/Anchorage
+FBR;Fort Bridger;41.236;-1.102.436;7038;-7;A;America/Denver
+FBS;Friday Harbor Seaplane Base;48.537.222;-123.009.722;0;-8;A;America/Los_Angeles
+FCA;Glacier Park Intl;48.310.472;-114.256;2977;-7;A;America/Denver
+FCM;Flying Cloud Airport;444.938;-932.726;906;-6;A;America/Chicago
+FCS;Butts Aaf;38.678.394;-104.756.581;5838;-7;A;America/Denver
+FDW;Fairfield County Airport;34.315.472;-81.108.806;577;-5;A;America/New_York
+FDY;Findlay Airport;410.120.278;-836.686.111;819;-5;U;America/New_York
+FFA;First Flight Airport;36.02;-75.67;13;-5;A;America/New_York
+FFC;Atlanta Regional Airport - Falcon Field;3.335.725;-845.718.333;808;-5;A;America/New_York
+FFO;Wright Patterson Afb;39.826.111;-84.048.332;823;-5;A;America/New_York
+FFT;Capital City Airport;381.819.722;-849.061.389;812;-5;A;America/New_York
+FFZ;Mesa Falcon Field;334.608.001.708.984;-111.727.996.826.172;1394;-7;A;America/Phoenix
+FHU;Sierra Vista Muni Libby Aaf;31.588.472;-110.344.389;4719;-7;A;America/Phoenix
+FIT;Fitchburg Municipal Airport;425.541.111;-717.589.722;348;-5;A;America/New_York
+FKL;Franklin;41.377.874;-79.860.362;1540;-5;A;America/New_York
+FLD;Fond Du Lac County Airport;437.711.667;-884.884.167;808;-6;A;America/Chicago
+FLG;Flagstaff Pulliam Airport;35.140.318;-1.116.692.392;7015;-7;N;America/Phoenix
+FLL;Fort Lauderdale Hollywood Intl;26.072.583;-8.015.275;9;-5;A;America/New_York
+FLO;Florence Rgnl;34.185.361;-79.723.889;146;-5;A;America/New_York
+FLV;Sherman Aaf;39.368.332;-94.914.686;772;-6;A;America/Chicago
+FME;Tipton;39.085.386;-76.759.414;150;-5;A;America/New_York
+FMH;Otis Angb;41.658.439;-70.521.417;131;-5;A;America/New_York
+FMN;Four Corners Rgnl;3.674.125;-108.229.944;5506;-7;A;America/Denver
+FMY;Page Fld;26.586.611;-8.186.325;17;-5;A;America/New_York
+FNL;Fort Collins Loveland Muni;40.451.828;-105.011.336;5016;-7;A;America/Denver
+FNR;Funter Bay Seaplane Base;58.254.444;-134.897.778;0;-9;A;America/Anchorage
+FNT;Bishop International;42.965.424;-83.743.629;782;-5;A;America/New_York
+FOD;Fort Dodge Rgnl;425.512;-94.191.842;1157;-6;A;America/Chicago
+FOE;Forbes Fld;38.950.944;-95.663.611;1078;-6;A;America/Chicago
+FOK;Francis S Gabreski;40.843.656;-72.631.789;67;-5;A;America/New_York
+FRD;Friday Harbor Airport;48.521.944;-123.024.444;113;-8;A;America/Los_Angeles
+FRI;Marshall Aaf;39.055.275;-96.764.453;1063;-6;A;America/Chicago
+FRN;Bryant Ahp;61.266.381;-149.653.119;378;-9;A;America/Anchorage
+FRP;St Lucie County International Airport;27.497.472;-80.372.638;23;-5;A;America/New_York
+FSD;Sioux Falls;43.582.014;-96.741.914;1429;-6;A;America/Chicago
+FSI;Henry Post Aaf;34.649.833;-98.402.167;1189;-6;A;America/Chicago
+FSM;Fort Smith Rgnl;35.336.583;-94.367.444;469;-6;A;America/Chicago
+FST;Fort Stockton Pecos Co;30.915.667;-102.916.139;3011;-6;A;America/Chicago
+FTK;Godman Aaf;37.907.058;-85.972.106;756;-5;A;America/New_York
+FTW;Fort Worth Meacham Intl;32.819.778;-97.362.444;710;-6;A;America/Chicago
+FTY;Fulton County Airport Brown Field;337.791;-845.214;841;-5;A;America/New_York
+FUL;Fullerton Municipal Airport;33.521.925;-117.584.722;96;-8;A;America/Los_Angeles
+FWA;Fort Wayne;40.978.472;-85.195.139;815;-5;A;America/New_York
+FXE;Fort Lauderdale Executive;26.197.281;-80.170.706;13;-5;A;America/New_York
+FYU;Fort Yukon;66.571.492;-145.250.417;433;-9;A;America/Anchorage
+FYV;Drake Fld;36.005.094;-94.170.059;1251;-6;A;America/Chicago
+FZG;Fitzgerald Municipal Airport;316.839.046;-832.709.036;365;-5;A;America/New_York
+FZI;Fostoria Metropolitan Airport;411.908.333;-833.930.833;752;-5;A;America/New_York
+GAD;Northeast Alabama Regional Airport;339.726.489;-860.890.834;569;-6;A;America/Chicago
+GAI;Montgomery County Airpark;391.006;-7.709.576;0;-5;A;America/New_York
+GAL;Edward G Pitka Sr;64.736.178;-156.937.417;152;-9;A;America/Anchorage
+GAM;Gambell Airport;637.668;-171.733;27;-9;A;America/Anchorage
+GBN;Great Bend Municipal;38.344.167;-98.859.167;1887;-6;A;America/Chicago
+GCC;Gillette-Campbell County Airport;443.489.167;-1.055.393.611;4365;-7;A;America/Denver
+GCK;Garden City Rgnl;37.927.528;-100.724.417;2891;-6;A;America/Chicago
+GCN;Grand Canyon National Park Airport;359.523.611;-1.121.469.722;6609;-7;N;America/Phoenix
+GCW;Grand Canyon West Airport;355.925;-1.134.859;4825;-7;U;America/Phoenix
+GDV;Dawson Community Airport;47.138.611;-104.807.222;749;-7;A;America/Denver
+GDW;Gladwin Zettel Memorial Airport;439.705.893;-8.447.502;774;-5;A;America/New_York
+GED;Sussex Co;38.689.194;-75.358.889;50;-5;A;America/New_York
+GEG;Spokane Intl;47.619.861;-117.533.833;2376;-8;A;America/Los_Angeles
+GEU;Glendale Municipal Airport;335.269.167;-1.122.951.389;1071;-7;N;America/Phoenix
+GFK;Grand Forks Intl;47.949.256;-97.176.111;845;-6;A;America/Chicago
+GFL;Floyd Bennett Memorial Airport;43.341.222;-73.610.305;328;-5;A;America/New_York
+GGE;Georgetown County Airport;333.114.018;-793.203.139;40;-5;A;America/New_York
+GGG;East Texas Rgnl;32.384.014;-94.711.486;365;-6;A;America/Chicago
+GGW;Wokal Field Glasgow International Airport;482.125;-106.615;2296;-7;A;America/Denver
+GHG;Marshfield Municipal Airport;4.209.825;-706.721.389;9;-5;A;America/New_York
+GIF;Gilbert Airport;28.062.778;-81.753.333;145;-5;A;America/New_York
+GJT;Grand Junction Regional;39.122.413;-108.526.735;4858;-7;A;America/Denver
+GKN;Gulkana;62.154.888;-145.456.639;1580;-9;A;America/Anchorage
+GKY;Arlington Municipal;326.638.611;-970.942.778;628;-6;A;America/Chicago
+GLD;Renner Fld;39.370.621;-101.698.992;3656;-7;A;America/Denver
+GLH;Mid Delta Regional Airport;334.829;-909.856;131;-6;A;America/Chicago
+GLS;Scholes Intl At Galveston;29.265.322;-94.860.406;6;-6;A;America/Chicago
+GLV;Golovin Airport;64.550.556;-163.007.222;59;-9;A;America/Anchorage
+GNT;Grants Milan Muni;35.167.286;-107.901.989;6537;-7;A;America/Denver
+GNU;Goodnews Airport;591.175;-1.615.775;15;-9;A;America/Anchorage
+GNV;Gainesville Rgnl;29.690.056;-82.271.778;152;-5;A;America/New_York
+GON;Groton New London;41.330.056;-72.045.139;9;-5;A;America/New_York
+GPT;Gulfport-Biloxi;30.407.278;-89.070.111;28;-6;A;America/Chicago
+GPZ;Grand Rapids Itasca County;47.211.111;-93.509.722;413;-6;A;America/Chicago
+GQQ;Galion Municipal Airport;407.533.889;-827.238.056;1224;-5;A;America/New_York
+GRB;Austin Straubel Intl;44.485.072;-88.129.589;695;-6;A;America/Chicago
+GRF;Gray Aaf;47.079.217;-122.580.783;302;-8;A;America/Los_Angeles
+GRI;Central Nebraska Regional Airport;409.675;-983.096;1847;-6;A;America/Chicago
+GRK;Robert Gray Aaf;3.106.725;-97.828.917;1015;-6;A;America/Chicago
+GRM;Grand Marais Cook County Airport;478.383.333;-903.829.444;1799;-6;U;America/Chicago
+GRR;Gerald R Ford Intl;42.880.833;-85.522.806;794;-5;A;America/New_York
+GSB;Seymour Johnson Afb;35.339.383;-77.960.589;110;-5;A;America/New_York
+GSO;Piedmont Triad;3.609.775;-79.937.306;925;-5;A;America/New_York
+GSP;Greenville-Spartanburg International;34.895.556;-82.218.889;964;-5;A;America/New_York
+GST;Gustavus Airport;584.253;-135.707;34;-9;A;America/Anchorage
+GTB;Wheeler Sack Aaf;44.055.619;-75.719.458;690;-5;A;America/New_York
+GTF;Great Falls Intl;47.482;-111.370.689;3677;-7;A;America/Denver
+GTR;Golden Triangle Regional Airport;33.450.333;-88.591.361;264;-6;A;America/Chicago
+GTU;Georgetown Municipal Airport;30.678.809;-976.793.837;790;-6;A;America/Chicago
+GUC;Gunnison - Crested Butte;38.533.889;-106.933.056;7678;-7;A;America/Denver
+GUP;Gallup Muni;35.511.058;-108.789.308;6472;-7;A;America/Denver
+GUS;Grissom Arb;40.648.094;-86.152.119;812;-5;A;America/New_York
+GVL;Lee Gilmer Memorial Airport;34.272.627;-838.302.233;1276;-5;A;America/New_York
+GVQ;Genesee County Airport;4.303.175;-781.696.667;914;-5;A;America/New_York
+GVT;Majors;33.067.839;-96.065.333;535;-6;A;America/Chicago
+GWO;Greenwood Leflore;33.494.328;-90.084.706;162;-6;A;America/Chicago
+GYY;Gary Chicago International Airport;416.163;-874.128;591;-6;A;America/Chicago
+HBG;Hattiesburg Bobby L. Chain Municipal Airport;312.649.444;-892.528.889;151;-6;A;America/Chicago
+HBR;Hobart Muni;34.991.308;-99.051.353;1564;-6;A;America/Chicago
+HCC;Columbia County;422.913;-737.103;198;-5;A;America/New_York
+HCR;Holy Cross Airport;621.883;-159.775;70;-9;A;America/Anchorage
+HDH;Dillingham;21.579.475;-158.197.281;14;-10;A;Pacific/Honolulu
+HDI;Hardwick Field Airport;352.199.994;-84.832.369;874;-5;A;America/New_York
+HDN;Yampa Valley;40.481.181;-10.721.766;6602;-7;A;America/Denver
+HDO;Hondo Municipal Airport;293.591;-991.775;930;-6;A;America/Chicago
+HFD;Hartford Brainard;41.736.722;-72.649.444;18;-5;A;America/New_York
+HGR;Hagerstown Regional Richard A Henson Field;397.079;-777.295;704;-5;A;America/New_York
+HHH;Hilton Head;32.216;-80.752;10;-5;U;America/New_York
+HHI;Wheeler Aaf;214.835;-158.039.667;837;-10;A;Pacific/Honolulu
+HHR;Jack Northrop Fld Hawthorne Muni;33.922.839;-118.335.186;66;-8;A;America/Los_Angeles
+HIB;Chisholm Hibbing;473.866;-92.838.994;1353;-6;A;America/Chicago
+HIF;Hill Afb;41.123.939;-111.973.039;4789;-7;A;America/Denver
+HII;Lake Havasu City Airport;345.711.111;-1.143.582.778;783;-7;N;America/Phoenix
+HIO;Portland Hillsboro;45.540.394;-122.949.825;204;-8;A;America/Los_Angeles
+HKB;Healy River Airport;638.675;-148.968.889;1263;-9;A;America/Anchorage
+HKY;Hickory Rgnl;35.741.147;-8.138.955;1189;-5;A;America/New_York
+HLG;Wheeling Ohio County Airport;40.175;-806.463;1195;-5;A;America/New_York
+HLN;Helena Rgnl;46.606.806;-11.198.275;3877;-7;A;America/Denver
+HLR;Hood Aaf;31.138.731;-97.714.469;924;-6;A;America/Chicago
+HMN;Holloman Afb;32.852.519;-106.106.525;4093;-7;A;America/Denver
+HNH;Hoonah Airport;58.096.111;-135.409.722;19;-9;A;America/Anchorage
+HNL;Honolulu Intl;21.318.681;-157.922.428;13;-10;N;Pacific/Honolulu
+HNM;Hana;20.795.636;-156.014.439;78;-10;A;Pacific/Honolulu
+HNS;Haines Airport;592.438;-135.524;15;-9;A;America/Anchorage
+HOB;Lea Co Rgnl;32.687.528;-103.217.028;3661;-7;A;America/Denver
+HOM;Homer;59.645.556;-151.476.583;84;-9;A;America/Anchorage
+HON;Huron Rgnl;443.852;-98.228.542;1289;-6;A;America/Chicago
+HOP;Campbell Aaf;36.668.567;-87.496.183;573;-6;A;America/Chicago
+HOT;Memorial Field;34.478;-930.962;540;-6;A;America/Chicago
+HOU;William P Hobby;29.645.419;-95.278.889;46;-6;A;America/Chicago
+HPB;Hooper Bay Airport;615.239;-166.147;7;-9;A;America/Anchorage
+HPN;Westchester Co;41.066.959;-73.707.575;439;-5;A;America/New_York
+HQM;Bowerman Field;469.711.944;-1.239.365.556;18;-8;A;America/Los_Angeles
+HQU;McDuffie County Airport;335.297.315;-825.169.509;501;-5;A;America/New_York
+HRL;Valley Intl;262.285;-97.654.389;36;-6;A;America/Chicago
+HRO;Boone Co;36.261.519;-93.154.728;1365;-6;A;America/Chicago
+HRT;Hurlburt Fld;30.427.803;-86.689.278;38;-6;A;America/Chicago
+HSH;Henderson Executive Airport;35.972.778;-115.134.444;1881;-8;A;America/Los_Angeles
+HSL;Huslia Airport;65.697.778;-156.351.389;213;-9;A;America/Anchorage
+HST;Homestead Arb;2.548.855;-80.383.567;6;-5;A;America/New_York
+HSV;Huntsville International Airport-Carl T Jones Field;346.371.944;-867.750.556;629;-6;A;America/Chicago
+HTL;Roscommon Co;44.359.806;-84.671.112;1150;-5;A;America/New_York
+HTS;Tri State Milton J Ferguson Field;383.667;-82.558;828;-5;A;America/New_York
+HUA;Redstone Aaf;34.678.653;-86.684.781;685;-6;A;America/Chicago
+HUF;Terre Haute Intl Hulman Fld;39.451.464;-87.307.561;589;-5;A;America/New_York
+HUL;Houlton Intl;46.123.083;-67.792.056;489;-5;A;America/New_York
+HUS;Hughes Airport;66.039.167;-154.264.722;299;-9;A;America/Anchorage
+HUT;Hutchinson Municipal Airport;380.655;-978.606;1543;-6;A;America/Chicago
+HVN;Tweed-New Haven Airport;4.126.375;-72.886.806.000.000.000;14;-5;A;America/New_York
+HVR;Havre City Co;48.542.983;-109.762.342;2590;-7;A;America/Denver
+HWD;Hayward Executive Airport;3.765.888.888.888.880;-12.212.166.666.666.600;52;-8;A;America/Los_Angeles
+HWO;North Perry;26.001.222;-80.240.722;8;-5;A;America/New_York
+HXD;Hilton Head Airport;322.243.611;-80.697.472.200.000.000;19;-5;A;America/New_York
+HYA;Barnstable Muni Boardman Polando Fld;41.669.336;-70.280.356;55;-5;A;America/New_York
+HYG;Hydaburg Seaplane Base;55.206.389;-132.828.333;0;-9;A;America/Anchorage
+HYL;Hollis Seaplane Base;55.481.667;-132.646.111;0;-9;A;America/Anchorage
+HYS;Hays Regional Airport;388.422;-992.732;1998;-6;A;America/Chicago
+HZL;Hazleton Municipal;40.989.167;-760.025;1603;-5;A;America/New_York
+IAB;Mc Connell Afb;37.621.853;-97.268.192;1371;-6;A;America/Chicago
+IAD;Washington Dulles Intl;38.944.533;-77.455.811;313;-5;A;America/New_York
+IAG;Niagara Falls Intl;43.107.333;-78.946.194;589;-5;A;America/New_York
+IAH;George Bush Intercontinental;29.984.433;-95.341.442;97;-6;A;America/Chicago
+IAN;Bob Baker Memorial Airport;66.975.833;-160.436.667;166;-9;A;America/Anchorage
+ICT;Wichita Mid Continent;37.649.944;-97.433.056;1333;-6;A;America/Chicago
+ICY;Icy Bay Airport;59.968.889;-141.661.667;50;-9;A;America/Anchorage
+IDA;Idaho Falls Rgnl;43.514.556;-11.207.075;4744;-7;A;America/Denver
+IDL;Idlewild Intl;40.639.751;-73.778.924;13;-5;A;America/New_York
+IFP;Laughlin-Bullhead Intl;351.574;-114.56;695;-7;A;America/Phoenix
+IGG;Igiugig Airport;59.324;-155.902;90;-9;A;America/Anchorage
+IGM;Kingman Airport;352.595;-113.938;3449;-7;A;America/Phoenix
+IGQ;Lansing Municipal;415.349.167;-875.295.278;620;-6;A;America/Chicago
+IJD;Windham Airport;417.440.278;-721.802.222;246;-5;A;America/New_York
+IKK;Greater Kankakee;41.071.389;-87.846.278;630;-6;A;America/Chicago
+IKO;Nikolski Air Station;52.941.667;-168.848.889;77;-9;A;America/Anchorage
+IKR;Kirtland Air Force Base;35.040.222;-106.609.194;5355;-7;A;America/Denver
+IKV;Ankeny Regl Airport;41.691.389;-93.566.389;910;-6;A;America/Chicago
+ILG;New Castle;39.678.722;-75.606.528;79;-5;A;America/New_York
+ILI;Iliamna;59.754.356;-154.910.961;186;-9;A;America/Anchorage
+ILM;Wilmington Intl;34.270.615;-77.902.569;32;-5;A;America/New_York
+ILN;Wilmington Airborne Airpark;3.942.792;-83.792.118;1077;-5;U;America/New_York
+IMM;Immokalee;26.433.889;-81.401.389;37;-5;A;America/New_York
+IMT;Ford Airport;458.183.611;-881.145.556;1182;-6;A;America/Chicago
+IND;Indianapolis Intl;39.717.331;-86.294.383;797;-5;A;America/New_York
+INJ;Hillsboro Muni;32.083.486;-97.097.228;685;-6;A;America/Chicago
+INK;Winkler Co;31.779.628;-103.201.361;2822;-6;A;America/Chicago
+INL;Falls Intl;48.566.186;-93.403.067;1185;-6;A;America/Chicago
+INS;Creech Afb;36.587.183;-115.673.353;3133;-8;A;America/Los_Angeles
+INT;Smith Reynolds;36.133.722;-80.222;969;-5;A;America/New_York
+INW;Winslow-Lindbergh Regional Airport;350.219.167;-1.107.225.278;4941;-7;N;America/Phoenix
+IOW;Iowa City Municipal Airport;41.639.244;-91.546.503;668;-6;A;America/Chicago
+IPL;Imperial Co;32.834.219;-115.578.744;-54;-8;A;America/Los_Angeles
+IPT;Williamsport Rgnl;41.241.836;-76.921.094;529;-5;A;America/New_York
+IRC;Circle City Airport;65.827.778;-144.076.111;613;-9;A;America/Anchorage
+IRK;Kirksville Regional Airport;400.935;-925.449;966;-6;A;America/Chicago
+ISM;Kissimmee Gateway Airport;28.289.806;-81.437.083;82;-5;A;America/New_York
+ISN;Sloulin Fld Intl;48.177.939;-103.642.347;1982;-6;A;America/Chicago
+ISO;Kinston Regional Jetport;35.331.389;-77.608.889;94;-5;A;America/New_York
+ISP;Long Island Mac Arthur;4.079.525;-73.100.222;99;-5;A;America/New_York
+ISW;Alexander Field South Wood County Airport;443.606.456;-898.381.412;1021;-6;A;America/Chicago
+ITH;Ithaca Tompkins Rgnl;42.491.028;-76.458.444;1099;-5;A;America/New_York
+ITO;Hilo Intl;19.721.375;-155.048.469;38;-10;N;Pacific/Honolulu
+IWD;Gogebic Iron County Airport;465.274.747;-901.313.967;1230;-6;U;America/Chicago
+IWS;West Houston;29.818.194;-95.672.611;111;-6;A;America/Chicago
+IYK;Inyokern Airport;35.658.889;-117.829.444;2455;-8;A;America/Los_Angeles
+IZG;Eastern Slopes Regional;439.911.389;-709.478.889;455;-5;A;America/New_York
+JAC;Jackson Hole Airport;43.607.333.333;-11.073.775;6451;-7;A;America/Denver
+JAN;Jackson Evers Intl;32.311.167;-90.075.889;346;-6;A;America/Chicago
+JAX;Jacksonville Intl;30.494.056;-81.687.861;30;-5;A;America/New_York
+JBR;Jonesboro Muni;35.831.708;-90.646.417;262;-6;A;America/Chicago
+JCI;New Century AirCenter Airport;388.309.167;-948.903.056;1087;-6;A;America/Chicago
+JEF;Jefferson City Memorial Airport;385.912;-921.561;549;-6;A;America/Chicago
+JES;Jesup-Wayne County Airport;31.553.889;-818.825;107;-5;A;America/New_York
+JFK;John F Kennedy Intl;40.639.751;-73.778.925;13;-5;A;America/New_York
+JGC;Grand Canyon Heliport;3.596.666.666;-11.213.333.333;2500;-7;A;America/Phoenix
+JHM;Kapalua;20.962.936;-156.673.031;256;-10;N;Pacific/Honolulu
+JHW;Chautauqua County-Jamestown;42.153.333;-79.258.056;525;-5;A;America/New_York
+JKA;Jack Edwards Airport;302.896.389;-876.717.778;17;-6;A;America/Chicago
+JLN;Joplin Rgnl;37.151.814;-94.498.269;981;-6;A;America/Chicago
+JMS;Jamestown Regional Airport;469.297;-986.782;1498;-6;A;America/Chicago
+JNU;Juneau Intl;58.354.972;-134.576.278;21;-9;A;America/Anchorage
+JOT;Regional Airport;41.517.778;-88.175.556;582;-6;A;America/Chicago
+JRA;West 30th St. Heliport;407.545;-740.071;7;-5;A;America/New_York
+JRB;Wall Street Heliport;40.701.214;-74.009.028;7;-5;A;America/New_York
+JST;John Murtha Johnstown-Cambria County Airport;40.316.111;-78.833.889;2284;-5;A;America/New_York
+JVL;Southern Wisconsin Regional Airport;4.262.025;-890.415.556;808;-6;A;America/Chicago
+JXN;Reynolds Field;42.260.556;-84.460.556;1001;-5;A;America/New_York
+JYL;Plantation Airpark;326.452.778;-815.971.111;188;-5;A;America/New_York
+JYO;Leesburg Executive Airport;39.078;-77.558;389;-5;A;America/New_York
+JZP;Pickens County Airport;344.534.722;-844.572.222;1535;-5;A;America/New_York
+K03;Wainwright As;70.613.378;-15.986.035;35;-9;A;America/Anchorage
+K27;Burrello-Mechanicville Airport;42.893.133;-73.668.450.000.000.000;195;-5;A;America/New_York
+K83;Sabetha Municipal;395.425;-954.677;1330;-6;A;America/Chicago
+KAE;Kake Seaplane Base;56.973.056;-133.945.556;0;-9;A;America/Anchorage
+KAL;Kaltag Airport;643.191;-158.741;187;-9;A;America/Anchorage
+KBC;Birch Creek Airport;66.256.708;-145.815.319;450;-9;A;America/Anchorage
+KBW;Chignik Bay Seaplane Base;56.295.556;-158.401.398;0;-9;A;America/Anchorage
+KCC;Coffman Cove Seaplane Base;56.014.722;-132.833.889;0;-9;A;America/Anchorage
+KCL;Chignik Lagoon Airport;56.311.111;-158.534.167;25;-9;A;America/Anchorage
+KCQ;Chignik Lake Airport;56.255;-158.775.278;50;-9;A;America/Anchorage
+KEH;Kenmore Air Harbor Inc Seaplane Base;477.548;-122.259;14;-8;A;America/Los_Angeles
+KEK;Ekwok Airport;59.356.944;-157.471.111;135;-9;A;America/Anchorage
+KFP;False Pass Airport;548.475;-163.410.278;20;-9;A;America/Anchorage
+KGK;Koliganek Airport;59.726.667;-157.259.444;269;-9;A;America/Anchorage
+KGX;Grayling Airport;62.894.444;-160.065;99;-9;A;America/Anchorage
+KKA;Koyuk Alfred Adams Airport;64.939.444;-161.154.167;154;-9;A;America/Anchorage
+KKB;Kitoi Bay Seaplane Base;58.190.833;-152.370.556;0;-9;A;America/Anchorage
+KKH;Kongiganak Airport;59.960.833;-162.881.111;30;-9;A;America/Anchorage
+KLG;Kalskag Airport;615.363;-160.341;55;-9;A;America/Anchorage
+KLL;Levelock Airport;59.128.056;-156.858.611;39;-9;A;America/Anchorage
+KLN;Larsen Bay Airport;57.535;-153.976.667;87;-9;A;America/Anchorage
+KLS;Kelso Longview;46.118;-122.898.389;20;-8;A;America/Los_Angeles
+KLW;Klawock Airport;55.579.167;-133.076.111;80;-9;A;America/Anchorage
+KMO;Manokotak Airport;58.990.278.000.000.000;-159.05;51;-9;A;America/Anchorage
+KMY;Moser Bay Seaplane Base;57.025.556;-154.145.833;0;-9;A;America/Anchorage
+KNW;New Stuyahok Airport;594.499;-157.328;302;-9;A;America/Anchorage
+KOA;Kona Intl At Keahole;19.738.767;-156.045.631;47;-10;N;Pacific/Honolulu
+KOT;Kotlik Airport;63.030.556;-163.532.778;15;-9;A;America/Anchorage
+KOY;Olga Bay Seaplane Base;57.161.389;-154.229.722;0;-9;A;America/Anchorage
+KOZ;Ouzinkie Airport;57.922.876;-152.500.511;55;-9;A;America/Anchorage
+KPB;Point Baker Seaplane Base;56.351.944;-1.336.225;0;-9;A;America/Anchorage
+KPC;Port Clarence Coast Guard Station;652.537;-166.859;10;-9;A;America/Anchorage
+KPN;Kipnuk Airport;59.933.056;-164.030.556;11;-9;A;America/Anchorage
+KPR;Port Williams Seaplane Base;58.49;-152.582.222;0;-9;A;America/Anchorage
+KPV;Perryville Airport;55.906.667;-159.160.833;29;-9;A;America/Anchorage
+KPY;Port Bailey Seaplane Base;57.93;-153.040.556;0;-9;A;America/Anchorage
+KQA;Akutan Seaplane Base;541.325;-165.785;0;-9;A;America/Anchorage
+KSM;St Marys Airport;620.605;-163.302;311;-9;A;America/Anchorage
+KTB;Thorne Bay Seaplane Base;55.688.056;-132.536.667;0;-9;A;America/Anchorage
+KTN;Ketchikan Intl;55.355.556;-13.171.375;88;-9;A;America/Anchorage
+KTS;Brevig Mission Airport;65.331.389;-166.465.833;35;-9;A;America/Anchorage
+KUK;Kasigluk Airport;60.873.333;-162.524.444;40;-9;A;America/Anchorage
+KVC;King Cove Airport;551.163;-162.266;155;-9;A;America/Anchorage
+KVL;Kivalina Airport;677.362;-164.563;13;-9;A;America/Anchorage
+KWK;Kwigillingok Airport;59.876.389;-163.168.611;18;-9;A;America/Anchorage
+KWN;Quinhagak Airport;59.755;-161.845.278;42;-9;A;America/Anchorage
+KWP;West Point Village Seaplane Base;57.77;-153.548.889;0;-9;A;America/Anchorage
+KWT;Kwethluk Airport;60.790.278;-161.443.611;30;-9;A;America/Anchorage
+KYK;Karuluk Airport;57.566.944;-154.450.278;137;-9;A;America/Anchorage
+KYU;Koyukuk Airport;64.875.833;-157.730.556;149;-9;A;America/Anchorage
+KZB;Zachar Bay Seaplane Base;57.55;-153.75;0;-9;A;America/Anchorage
+L06;Furnace Creek;36.273;-116.515;0;-8;A;America/Los_Angeles
+L35;Big Bear City;342.637.778;-1.168.560.278;6725;-8;A;America/Los_Angeles
+L52;Oceano County Airport;3.510.147.222;-12.062.236.111;14;-8;U;America/Los_Angeles
+LAA;Lamar Muni;38.069.694;-1.026.885;3706;-7;A;America/Denver
+LAF;Purude University Airport;404.123.056;-869.368.889;606;-5;A;America/New_York
+LAL;Lakeland Linder Regional Airport;279.889.167;-820.185.556;142;-5;A;America/New_York
+LAM;Los Alamos Airport;358.798.019;-1.062.694.153;7171;-7;A;America/Denver
+LAN;Capital City;427.787;-84.587.357;861;-5;A;America/New_York
+LAR;Laramie Regional Airport;413.121;-105.675;7284;-7;A;America/Denver
+LAS;Mc Carran Intl;36.080.056;-11.515.225;2141;-8;A;America/Los_Angeles
+LAW;Lawton-Fort Sill Regional Airport;345.677.144;-984.166.367;1110;-6;A;America/Chicago
+LAX;Los Angeles Intl;33.942.536;-118.408.075;126;-8;A;America/Los_Angeles
+LBB;Lubbock Preston Smith Intl;33.663.639;-101.822.778;3282;-6;A;America/Chicago
+LBE;Arnold Palmer Regional Airport;402.759;-794.048;1185;-5;A;America/New_York
+LBF;North Platte Regional Airport Lee Bird Field;411.262;-100.684;2776;-6;A;America/Chicago
+LBL;Liberal Muni;37.044.222;-10.095.986;2885;-6;A;America/Chicago
+LBT;Municipal Airport;346.098.056;-790.595.556;125;-5;A;America/New_York
+LCH;Lake Charles Rgnl;30.126.112;-93.223.335;15;-6;A;America/Chicago
+LCK;Rickenbacker Intl;39.813.786;-82.927.822;744;-5;A;America/New_York
+LCQ;Lake City Municipal Airport;30.181.944;-82.576.944;201;-5;A;America/New_York
+LDJ;Linden Airport;406.174.472;-742.445.942;23;-5;A;America/New_York
+LEB;Lebanon Municipal Airport;436.261;-723.042;603;-5;A;America/New_York
+LEW;Lewiston Maine;440.484.728;-702.835.075;288;-5;A;America/New_York
+LEX;Blue Grass;380.365;-84.605.889;979;-5;A;America/New_York
+LFI;Langley Afb;37.082.881;-76.360.547;11;-5;A;America/New_York
+LFK;Angelina Co;31.234.014;-94.75;296;-6;A;America/Chicago
+LFT;Lafayette Rgnl;30.205.278;-91.987.611;43;-6;A;America/Chicago
+LGA;La Guardia;40.777.245;-73.872.608;22;-5;A;America/New_York
+LGB;Long Beach;33.817.722;-118.151.611;60;-8;A;America/Los_Angeles
+LGC;LaGrange-Callaway Airport;330.088.611;-850.726.111;694;-5;A;America/New_York
+LGU;Logan-Cache;41.791;-111.852;4457;-7;A;America/Denver
+LHD;Lake Hood Seaplane Base;611.866.382;-1.499.653.918;71;-9;A;America/Anchorage
+LHM;Lincoln Regional Airport Karl Harder Field;389.091.667;-1.213.513.333;121;-8;A;America/Los_Angeles
+LHV;William T. Piper Mem.;411.357.778;-774.223.056;556;-5;A;America/New_York
+LHX;La Junta Muni;38.049.719;-103.509.431;4238;-7;A;America/Denver
+LIH;Lihue;21.975.983;-159.338.958;153;-10;N;Pacific/Honolulu
+LIT;Adams Fld;34.729.444;-92.224.306;262;-6;A;America/Chicago
+LIV;Livingood Airport;65.531.111;-148.541.111;696;-9;A;America/Anchorage
+LKE;Kenmore Air Harbor Seaplane Base;47.629;-122.339;14;-8;A;America/Los_Angeles
+LKK;Kulik Lake Airport;5.896.591;-155.108.089;1000;-9;U;America/Anchorage
+LKP;Lake Placid Airport;44.264.444;-73.961.944;1747;-5;A;America/New_York
+LMT;Klamath Falls Airport;421.561;-121.733;4095;-8;A;America/Los_Angeles
+LNA;Palm Beach Co Park;26.593;-80.085.056;14;-5;A;America/New_York
+LNK;Lincoln;40.850.971;-9.675.925;1219;-6;A;America/Chicago
+LNN;Lost Nation Municipal Airport;416.840.278;-8.138.975;626;-5;A;America/New_York
+LNR;Tri-County Regional Airport;43.211.667;-90.181.667;718;-6;A;America/Chicago
+LNS;Lancaster Airport;401.217;-762.961;403;-5;A;America/New_York
+LNY;Lanai;20.785.611;-156.951.419;1308;-10;N;Pacific/Honolulu
+LOT;Lewis University Airport;41.606.326;-88.083.003;680;-6;A;America/Chicago
+LOU;Bowman Fld;38.228;-85.663.722;546;-5;A;America/New_York
+LOZ;London-Corbin Airport-MaGee Field;370.868.889;-840.773.889;1212;-5;A;America/New_York
+LPC;Lompoc Airport;346.656;-1.204.675;88;-8;A;America/Los_Angeles
+LPR;Lorain County Regional Airport;413.442.778;-821.776.389;793;-5;A;America/New_York
+LPS;Lopez Island Airport;484.839;-122.938;209;-8;A;America/Los_Angeles
+LRD;Laredo Intl;2.754.375;-99.461.556;508;-6;A;America/Chicago
+LRF;Little Rock Afb;34.916.944;-92.149.722;311;-6;A;America/Chicago
+LRO;Mount Pleasant Regional-Faison Field;325.387;-794.697;12;-5;A;NA
+LRU;Las Cruces Intl;32.289.417;-106.921.972;4456;-7;A;America/Denver
+LSE;La Crosse Municipal;43.878.986;-91.256.711;654;-6;A;America/Chicago
+LSF;Lawson Aaf;32.337.322;-84.991.283;232;-5;A;America/New_York
+LSV;Nellis Afb;36.236.197;-115.034.253;1870;-8;A;America/Los_Angeles
+LTS;Altus Afb;34.667.067;-99.266.681;1382;-6;A;America/Chicago
+LUF;Luke Afb;33.535;-11.238.306;1085;-7;A;America/Phoenix
+LUK;Cincinnati Muni Lunken Fld;39.103.333;-84.418.611;483;-5;A;America/New_York
+LUP;Kalaupapa Airport;21.211;-156.974;24;-10;A;Pacific/Honolulu
+LUR;Cape Lisburne Lrrs;68.875.133;-166.110.022;12;-9;A;America/Anchorage
+LVK;Livermore Municipal;3.741.362;-12.149.133;400;-8;A;America/Los_Angeles
+LVM;Mission Field Airport;456.993.889;-1.104.483.056;4660;-7;A;America/Denver
+LVS;Las Vegas Muni;35.654.222;-105.142.389;6877;-7;A;America/Denver
+LWA;South Haven Area Regional Airport;423.511.944;-862.556.389;666;-5;A;America/New_York
+LWB;Greenbrier Valley Airport;37.858.333;-80.399.444;2302;-5;U;America/New_York
+LWC;Lawrence Municipal;39.009.167;-952.175;833;-6;A;America/Chicago
+LWM;Lawrence Municipal Airport;427.171.944;-711.234.167;148;-5;A;America/New_York
+LWS;Lewiston Nez Perce Co;463.745;-117.015.389;1442;-8;A;America/Los_Angeles
+LWT;Lewistown Municipal Airport;470.493;-109.467;4170;-7;A;America/Denver
+LXY;Mexia - Limestone County Airport;316.411.783;-965.144.594;544;-6;A;America/Chicago
+LYH;Lynchburg Regional Preston Glenn Field;373.267;-792.004;938;-5;A;America/New_York
+LYU;Ely Municipal;47.824.444;-91.830.833;1456;-6;A;America/Chicago
+LZU;Gwinnett County Airport-Briscoe Field;339.780.761;-839.623.772;1061;-5;A;America/New_York
+M94;Desert Aire;464.124;-1.195.518;586;-8;A;America/Los_Angeles
+MAE;Madera Municipal Airport;369.886.111;-1.201.124.444;255;-8;A;America/Los_Angeles
+MAF;Midland Intl;31.942.528;-102.201.914;2871;-6;A;America/Chicago
+MBL;Manistee County-Blacker Airport;442.725;-86.246.944;621;-5;A;America/New_York
+MBS;Mbs Intl;43.532.913;-84.079.647;668;-5;A;America/New_York
+MCC;Mc Clellan Afld;38.667.639;-121.400.611;75;-8;A;America/Los_Angeles
+MCD;Mackinac Island Airport;458.649.344;-84.637.344;740;-5;U;America/New_York
+MCE;Merced Municipal Airport;37.284.722;-120.513.889;156;-8;A;America/Los_Angeles
+MCF;Macdill Afb;27.849.339;-82.521.214;14;-5;A;America/New_York
+MCG;McGrath Airport;629.529;-155.606;338;-9;A;America/Anchorage
+MCI;Kansas City Intl;39.297.606;-94.713.905;1026;-6;A;America/Chicago
+MCK;McCook Regional Airport;40.206.389;-100.592.222;2583;-6;A;America/Chicago
+MCL;McKinley National Park Airport;63.732.757;-14.891.129;1720;-9;A;America/Anchorage
+MCN;Middle Georgia Rgnl;3.269.285;-83.649.211;354;-5;A;America/New_York
+MCO;Orlando Intl;28.429.394;-81.308.994;96;-5;A;America/New_York
+MCW;Mason City Municipal;432.247;-934.067;1243;-6;A;America/Chicago
+MDT;Harrisburg Intl;40.193.494;-76.763.403;310;-5;A;America/New_York
+MDW;Chicago Midway Intl;41.785.972;-87.752.417;620;-6;A;America/Chicago
+ME5;Banks Airport;441.653.889;-684.281.667;100;-5;A;America/New_York
+MEI;Key Field;32.332.624;-88.751.868;297;-6;A;America/Chicago
+MEM;Memphis Intl;35.042.417;-89.976.667;341;-6;A;America/Chicago
+MER;Castle;37.380.481;-120.568.189;189;-8;A;America/Los_Angeles
+MFD;Mansfield Lahm Regional;408.214.167;-825.166.389;1297;-5;A;America/New_York
+MFE;Mc Allen Miller Intl;26.175.833;-98.238.611;107;-6;A;America/Chicago
+MFI;Marshfield Municipal Airport;446.368.797;-901.893.267;1278;-6;A;America/Chicago
+MFR;Rogue Valley Intl Medford;42.374.228;-1.228.735;1335;-8;A;America/Los_Angeles
+MGC;Michigan City Municipal Airport;417.033;-868.211;500;-6;A;America/Chicago
+MGE;Dobbins Arb;33.915.382;-84.516.319;1068;-5;A;America/New_York
+MGJ;Orange County Airport;415.099.884;-742.646.444;364;-5;A;America/New_York
+MGM;Montgomery Regional Airport;323.006.389;-863.939.722;221;-6;A;America/Chicago
+MGR;Moultrie Municipal Airport;310.849.167;-8.380.325;294;-5;A;America/New_York
+MGW;Morgantown Muni Walter L Bill Hart Fld;39.642.908;-79.916.314;1248;-5;A;America/New_York
+MGY;Dayton-Wright Brothers Airport;395.889.722;-842.248.611;957;-5;U;America/New_York
+MHK;Manhattan Reigonal;39.140.972;-96.670.833;1057;-6;A;America/Chicago
+MHM;Minchumina Airport;63.886.111;-152.301.944;678;-9;A;America/Anchorage
+MHR;Sacramento Mather;38.553.897;-121.297.592;96;-8;A;America/Los_Angeles
+MHT;Manchester Regional Airport;42.932.556;-71.435.667;266;-5;A;America/New_York
+MHV;Mojave;35.059.364;-118.151.856;2791;-8;A;America/Los_Angeles
+MIA;Miami Intl;2.579.325;-80.290.556;8;-5;A;America/New_York
+MIB;Minot Afb;48.415.572;-101.357.661;1668;-6;A;America/Chicago
+MIC;Crystal Airport;450.343;-932.114;869;-6;A;America/Chicago
+MIE;Delaware County Airport;402.424.722;-8.539.575;937;-5;U;America/New_York
+MIV;Millville Muni;39.367.806;-75.072.222;85;-5;A;America/New_York
+MKC;Downtown;391.275;-94.598.889;759;-6;A;America/Chicago
+MKE;General Mitchell Intl;42.947.222;-87.896.583;723;-6;A;America/Chicago
+MKG;Muskegon County Airport;431.695;-862.382;628;-5;A;America/New_York
+MKK;Molokai;21.152.886;-157.096.256;454;-10;N;Pacific/Honolulu
+MKL;Mc Kellar Sipes Rgnl;35.599.889;-88.915.611;434;-6;A;America/Chicago
+MKO;Davis Fld;35.656.489;-95.366.656;612;-6;A;America/Chicago
+MLB;Melbourne Intl;28.102.753;-80.645.258;33;-5;A;America/New_York
+MLC;Mc Alester Rgnl;34.882.403;-95.783.463;770;-6;A;America/Chicago
+MLD;Malad City;42.17;-112.289;4503;-7;A;America/Denver
+MLI;Quad City Intl;41.448.528;-90.507.539;590;-6;A;America/Chicago
+MLJ;Baldwin County Airport;33.154.225;-832.414.139;385;-5;A;America/New_York
+MLL;Marshall Don Hunter Sr. Airport;618.646.418;-162.026.111;103;-9;A;America/Anchorage
+MLS;Frank Wiley Field;46.428;-105.886;2630;-7;A;America/Denver
+MLT;Millinocket Muni;45.647.836;-68.685.561;408;-5;A;America/New_York
+MLU;Monroe Rgnl;32.510.864;-92.037.689;79;-6;A;America/Chicago
+MLY;Manley Hot Springs Airport;649.975;-150.644.167;270;-9;A;America/Anchorage
+MMH;Mammoth Yosemite Airport;37.624.049;-118.837.772;7128;-8;A;America/Los_Angeles
+MMI;McMinn Co;3.539.919;-8.456.177;874;-5;N;America/New_York
+MMU;Morristown Municipal Airport;4.079.935;-744.148.747;187;-5;A;America/New_York
+MMV;Mc Minnville Muni;45.194.444;-123.135.944;163;-8;A;America/Los_Angeles
+MNM;Menominee Marinette Twin Co;4.512.665;-87.638.443;625;-6;A;America/Chicago
+MNT;Minto Airport;65.143.611;-149.37;460;-9;A;America/Anchorage
+MNZ;Manassas;38.721.389;-77.515.556;192;-5;A;America/New_York
+MOB;Mobile Rgnl;30.691.231;-88.242.814;219;-6;A;America/Chicago
+MOD;Modesto City Co Harry Sham;37.625.817;-120.954.422;97;-8;A;America/Los_Angeles
+MOT;Minot Intl;48.259.378;-101.280.333;1716;-6;A;America/Chicago
+MOU;Mountain Village Airport;620.954;-163.682;337;-9;A;America/Anchorage
+MPB;Miami Seaplane Base;257.783;-801.703;0;-5;A;America/New_York
+MPI;MariposaYosemite;373.039;-1.200.222;2454;-8;A;America/Los_Angeles
+MPV;Edward F Knapp State;44.203.503;-72.562.328;1165;-5;A;America/New_York
+MQB;Macomb Municipal Airport;405.200.833;-906.523.889;707;-6;U;America/Chicago
+MQI;Dare County Regional;355.514;-754.173;13;-5;A;America/New_York
+MQT;Sawyer International Airport;46.353.611;-87.395.278;1221;-5;A;America/New_York
+MRB;Eastern WV Regional Airport;392.407;-77.591;554;-5;A;America/New_York
+MRI;Merrill Fld;61.213.544;-149.844.447;137;-9;A;America/Anchorage
+MRK;Marco Islands;259.950.278;-816.725.278;5;-5;A;America/New_York
+MRN;Foothills Regional Airport;358.202.336;-816.115.119;1270;-5;A;America/New_York
+MRY;Monterey Peninsula;36.587;-121.842.944;257;-8;A;America/Los_Angeles
+MSL;Northwest Alabama Regional Airport;347.453;-876.102;550;-6;A;America/Chicago
+MSN;Dane Co Rgnl Truax Fld;43.139.858;-89.337.514;887;-6;A;America/Chicago
+MSO;Missoula Intl;46.916.306;-114.090.556;3205;-7;A;America/Denver
+MSP;Minneapolis St Paul Intl;44.881.956;-93.221.767;841;-6;A;America/Chicago
+MSS;Massena Intl Richards Fld;44.935.833;-74.845.547;215;-5;A;America/New_York
+MSY;Louis Armstrong New Orleans Intl;29.993.389;-90.258.028;4;-6;A;America/Chicago
+MTC;Selfridge Angb;42.608.333;-828.355;580;-5;A;America/New_York
+MTH;Florida Keys Marathon Airport;24.726.111;-81.051.389;7;-5;A;America/New_York
+MTJ;Montrose Regional Airport;38.509.794;-107.894.242;5759;-7;A;America/Denver
+MTM;Metlakatla Seaplane Base;55.131.111;-131.578.056;0;-9;A;America/Anchorage
+MTN;Martin State;393.256.667;-764.137.778;22;-5;A;America/New_York
+MUE;Waimea Kohala;20.001.328;-155.668.108;2671;-10;A;Pacific/Honolulu
+MUI;Muir Aaf;40.434.811;-76.569.411;489;-5;A;America/New_York
+MUO;Mountain Home Afb;43.043.603;-115.872.431;2996;-7;A;America/Denver
+MVL;Morrisville Stowe State Airport;44.535;-72.614;732;-5;A;America/New_York
+MVY;Martha\\'s Vineyard;41.391.667;-70.615.278;67;-5;A;America/New_York
+MWA;Williamson Country Regional Airport;377.549.569;-890.110.936;472;-6;A;America/Chicago
+MWC;Lawrence J Timmerman Airport;431.103.889;-880.344.167;745;-6;A;America/Chicago
+MWH;Grant Co Intl;47.207.708;-11.932.019;1185;-8;A;America/Los_Angeles
+MWL;Mineral Wells;32.781.606;-98.060.175;974;-6;A;America/Chicago
+MWM;Windom Municipal Airport;439.134.017;-951.094.083;1410;-6;A;America/Chicago
+MXF;Maxwell Afb;32.382.944;-86.365.778;171;-6;A;America/Chicago
+MXY;McCarthy Airport;614.370.608;-14.290.307.372;1531;-9;U;America/Anchorage
+MYF;Montgomery Field;324.759;117.759;17;8;A;Asia/Chongqing
+MYL;McCall Municipal Airport;44.889.722;-116.101.389;5021;-7;A;America/Denver
+MYR;Myrtle Beach Intl;3.367.975;-78.928.333;25;-5;A;America/New_York
+MYU;Mekoryuk Airport;603.714;-166.271;48;-9;A;America/Anchorage
+MYV;Yuba County Airport;390.553;-1.213.411;62;-8;A;America/Los_Angeles
+MZJ;Pinal Airpark;32.509.722;-111.325.278;1893;-7;N;America/Phoenix
+N53;Stroudsburg-Pocono Airport;410.358.717;-751.606.789;480;-5;A;America/New_York
+N69;Stormville Airport;415.769.708;-737.323.514;358;-5;A;America/New_York
+N87;Trenton-Robbinsville Airport;402.139.444;-746.017.778;118;-5;A;America/New_York
+NBG;New Orleans Nas Jrb;29.825.333;-90.035;3;-6;A;America/Chicago
+NBU;Naval Air Station;42.090.556;-878.225;653;-6;A;America/Chicago
+NCN;Chenega Bay Airport;60.077.222;-147.991.944;72;-9;A;America/Anchorage
+NEL;Lakehurst Naes;40.033.333;-74.353.333;103;-5;A;America/New_York
+NEW;Lakefront;300.424.167;-9.002.825;7;-6;A;America/Chicago
+NFL;Fallon Nas;39.416.584;-11.870.098;3934;-8;A;America/Los_Angeles
+NGF;Kaneohe Bay Mcaf;21.450.453;-157.768;24;-10;A;Pacific/Honolulu
+NGP;Corpus Christi NAS;27.692.701;-97.290.376;18;-6;A;America/Chicago
+NGU;Norfolk Ns;36.937.644;-76.289.289;15;-5;A;America/New_York
+NGZ;NAS Alameda;377.861;-1.223.186;10;-8;U;America/Los_Angeles
+NHK;Patuxent River Nas;38.285.981;-76.411.781;39;-5;A;America/New_York
+NIB;Nikolai Airport;63.010.833;-154.383.889;427;-9;A;America/Anchorage
+NID;China Lake Naws;35.685.422;-117.692.039;2283;-8;A;America/Los_Angeles
+NIP;Jacksonville Nas;30.235.834;-81.680.556;22;-5;A;America/New_York
+NJK;El Centro Naf;32.829.222;-115.671.667;-42;-8;A;America/Los_Angeles
+NKT;Cherry Point Mcas;34.900.872;-76.880.733;29;-5;A;America/New_York
+NKX;Miramar Mcas;32.867.694;-11.714.175;478;-8;A;America/Los_Angeles
+NLC;Lemoore Nas;36.333.012;-11.995.208;234;-8;A;America/Los_Angeles
+NLG;Nelson Lagoon;560.075;-161.160.278;14;-9;A;America/Anchorage
+NME;Nightmute Airport;60.471.111;-164.700.833;4;-9;A;America/Anchorage
+NMM;Meridian Nas;32.552.083;-88.555.557;317;-6;A;America/Chicago
+NNL;Nondalton Airport;59.966.944;-154.851.667;262;-9;A;America/Anchorage
+NOW;Port Angeles Cgas;48.141.481;-123.414.075;13;-8;A;America/Los_Angeles
+NPA;Pensacola Nas;30.352.656;-87.318.647;28;-6;A;America/Chicago
+NPZ;Porter County Municipal Airport;414.539.722;-870.070.833;770;-6;A;America/Chicago
+NQA;Millington Rgnl Jetport;35.356.667;-89.870.278;320;-6;A;America/Chicago
+NQI;Kingsville Nas;27.507.223;-97.809.723;50;-6;A;America/Chicago
+NQX;Key West Nas;24.575.834;-81.688.889;6;-5;A;America/New_York
+NSE;Whiting Fld Nas North;30.724.167;-87.021.944;199;-6;A;America/Chicago
+NTD;Point Mugu Nas;34.120.285;-11.912.094;13;-8;A;America/Los_Angeles
+NTU;Oceana Nas;36.820.703;-76.033.542;22;-5;A;America/New_York
+NUI;Nuiqsut Airport;70.21;-151.005.556;38;-9;A;America/Anchorage
+NUL;Nulato Airport;64.729.444;-158.074.167;399;-9;A;America/Anchorage
+NUP;Nunapitchuk Airport;60.905.833;-162.439.167;12;-9;A;America/Anchorage
+NUQ;Moffett Federal Afld;37.416.142;-122.049.139;32;-8;A;America/Los_Angeles
+NUW;Whidbey Island Nas;48.351.803;-122.655.906;47;-8;A;America/Los_Angeles
+NXP;Twentynine Palms Eaf;34.296.161;-116.162.203;2051;-8;A;America/Los_Angeles
+NXX;Willow Grove Nas Jrb;40.199.833;-75.148.167;358;-5;A;America/New_York
+NY9;Long Lake;439.750.617;-7.442.044;1629;-5;A;America/New_York
+NYC;All Airports;40.714.167;-74.005.833;31;-5;A;America/New_York
+NYG;Quantico Mcaf;38.501.683;-77.305.333;11;-5;A;America/New_York
+NZC;Cecil Field;302.187;-818.767;81;-5;A;America/New_York
+NZJ;El Toro;33.676.132;-117.731.164;383;-8;A;America/Los_Angeles
+NZY;North Island Nas;32.699.219;-11.721.531;26;-8;A;America/Los_Angeles
+O03;Morgantown Airport;401.570.414;-758.704.892;600;-5;A;America/New_York
+O27;Oakdale Airport;377.563.333;-1.208.001.944;237;-8;A;America/Los_Angeles
+OAJ;Albert J Ellis;34.829.164;-77.612.139;94;-5;A;America/New_York
+OAK;Metropolitan Oakland Intl;37.721.278;-122.220.722;9;-8;A;America/Los_Angeles
+OAR;Marina Muni;36.681.878;-121.762.347;134;-8;A;America/Los_Angeles
+OBE;County;27.265.833;-80.851.111;34;-5;A;America/New_York
+OBU;Kobuk Airport;66.912.222;-156.897.222;137;-9;A;America/Anchorage
+OCA;Key Largo;25.325.393;-80.274.775;8;-5;A;America/New_York
+OCF;International Airport;291.725;-82.224.167;89;-5;A;America/New_York
+OEB;Branch County Memorial Airport;419.335.691;-850.522.935;959;-5;A;America/New_York
+OFF;Offutt Afb;41.118.332;-95.912.511;1052;-6;A;America/Chicago
+OGG;Kahului;2.089.865;-156.430.458;54;-10;N;Pacific/Honolulu
+OGS;Ogdensburg Intl;44.681.854;-754.655;297;-5;A;America/New_York
+OJC;Johnson County Airport;385.051;-944.415;1096;-6;A;America/Chicago
+OKC;Will Rogers World;35.393.089;-97.600.733;1295;-6;A;America/Chicago
+OLF;LM Clayton Airport;48.094.444;-105.575;1986;-7;A;America/Denver
+OLH;Old Harbor Airport;57.218.056;-153.269.722;55;-9;A;America/Anchorage
+OLM;Olympia Regional Airpor;469.694.044;-12.290.254.470.000.000;209;-8;A;America/Los_Angeles
+OLS;Nogales Intl;31.417.722;-11.084.789;3955;-7;A;America/Phoenix
+OLT;San Diego Old Town Transit Center;327.552;-1.171.995;0;-8;A;America/Los_Angeles
+OLV;Olive Branch Muni;34.876.944;-89.783.333;350;-6;A;America/Chicago
+OMA;Eppley Afld;41.303.167;-95.894.069;984;-6;A;America/Chicago
+OME;Nome;64.512.203;-165.445.247;37;-9;A;America/Anchorage
+OMN;Ormond Beach municipal Airport;291.804;-8.106.497;28;-5;A;America/New_York
+ONH;Oneonta Municipal Airport;42.524.722;-75.064.444;1763;-5;A;America/New_York
+ONP;Newport Municipal Airport;44.580.361;-124.057.917;160;-8;A;America/Los_Angeles
+ONT;Ontario Intl;34.056;-117.601.194;944;-8;A;America/Los_Angeles
+OOK;Toksook Bay Airport;60.541.389;-165.087.222;59;-9;A;America/Anchorage
+OPF;Opa Locka;25.907;-80.278.389;8;-5;A;America/New_York
+OQN;Brandywine Airport;395.924;-753.455;466;-5;A;America/New_York
+OQU;Quonset State Airport;415.971.389;-714.121.389;18;-5;A;America/New_York
+ORD;Chicago Ohare Intl;41.978.603;-87.904.842;668;-6;A;America/Chicago
+ORF;Norfolk Intl;36.894.611;-76.201.222;26;-5;A;America/New_York
+ORH;Worcester Regional Airport;422.673;-718.757;1009;-5;A;America/New_York
+ORI;Port Lions Airport;57.885.278;-152.846.111;52;-9;A;America/Anchorage
+ORL;Executive;28.545.464;-81.332.936;113;-5;A;America/New_York
+ORT;Northway;62.961.334;-141.929.136;1716;-9;A;America/Anchorage
+ORV;Robert Curtis Memorial Airport;668.175;-161.022.222;55;-9;A;America/Anchorage
+OSC;Oscoda Wurtsmith;44.451.558;-83.394.053;634;-5;A;America/New_York
+OSH;Wittman Regional Airport;44.024.983;-88.551.336;790;-6;A;America/Chicago
+OSU;Ohio State University Airport;400.798;-83.073;905;-5;U;America/New_York
+OTH;Southwest Oregon Regional Airport;434.171;-124.246;17;-8;A;America/Los_Angeles
+OTS;Anacortes Airport;48.498.889;-1.226.625;241;-8;A;America/Los_Angeles
+OTZ;Ralph Wien Mem;66.884.678;-16.259.855;11;-9;A;America/Anchorage
+OWB;Owensboro Daviess County Airport;377.401;-871.668;406;-6;A;America/Chicago
+OWD;Norwood Memorial Airport;421.905.278;-711.729.444;49;-5;A;America/New_York
+OXC;Waterbury-Oxford Airport;414.785.556;-7.313.525;726;-5;A;America/New_York
+OXD;Miami University Airport;395.022.607;-847.843.814;1040;-5;U;America/New_York
+OXR;Oxnard - Ventura County;34.200.833;-119.207.222;15;-8;A;America/Los_Angeles
+OZA;Ozona Muni;30.735.281;-101.202.972;2381;-6;A;America/Chicago
+P08;Coolidge Municipal Airport;329.359.016.418.457;-111.427.001.953.125;1574;-7;A;America/Phoenix
+P52;Cottonwood Airport;347.299.995.422.363;-112.035.003.662.109;3550;-7;A;America/Phoenix
+PAE;Snohomish Co;47.906.342;-122.281.564;606;-8;A;America/Los_Angeles
+PAH;Barkley Regional Airport;370.602.875;-887.729.583;410;-6;A;America/Chicago
+PAM;Tyndall Afb;30.069.567;-85.575.417;17;-6;A;America/Chicago
+PAO;Palo Alto Airport of Santa Clara County;374.611.111;-1.221.150.556;7;-8;A;America/Los_Angeles
+PAQ;Palmer Muni;61.594.914;-149.088.711;242;-9;A;America/Anchorage
+PBF;Grider Fld;34.173.142;-91.935.597;206;-6;A;America/Chicago
+PBG;Plattsburgh Intl;44.650.944;-73.468.139;234;-5;A;America/New_York
+PBI;Palm Beach Intl;26.683.161;-80.095.589;19;-5;A;America/New_York
+PBV;St George;56.578.344;-169.661.611;125;-9;A;America/Anchorage
+PBX;Pike County Airport - Hatcher Field;375.617.639;-825.663.889;1473;-5;A;America/New_York
+PCW;Erie-Ottawa Regional Airport;415.162.703;-828.694.868;590;-5;U;America/New_York
+PCZ;Waupaca Municipal Airport;4.433.325;-890.197.778;840;-6;A;America/Chicago
+PDB;Pedro Bay Airport;59.782.222;-1.541.325;45;-9;A;America/Anchorage
+PDK;Dekalb-Peachtree Airport;338.756.111;-843.019.722;1003;-5;A;America/New_York
+PDT;Eastern Oregon Regional Airport;45.695;-118.841.389;1497;-8;A;America/Los_Angeles
+PDX;Portland Intl;45.588.722;-1.225.975;30;-8;A;America/Los_Angeles
+PEC;Pelican Seaplane Base;57.955.278;-136.236.389;0;-9;A;America/Anchorage
+PEQ;Pecos Municipal Airport;313.823.889;-1.035.107.222;2613;-6;A;America/Chicago
+PFN;Panama City Bay Co Intl;30.212.083;-85.682.806;20;-6;A;America/Chicago
+PGA;Page Municipal Airport;369.261;-1.114.483;4316;-7;A;America/Phoenix
+PGD;Charlotte County-Punta Gorda Airport;26.919.722;-81.990.556;26;-5;A;America/New_York
+PGV;Pitt-Greenville Airport;35.635.278;-77.385.278;27;-5;A;America/New_York
+PHD;Harry Clever Field Airport;404.701.667;-814.199.444;894;-5;A;America/New_York
+PHF;Newport News Williamsburg Intl;37.131.894;-76.492.989;43;-5;A;America/New_York
+PHK;Pahokee Airport;26.789;-80.692;18;-5;A;America/New_York
+PHL;Philadelphia Intl;39.871.944;-75.241.139;36;-5;A;America/New_York
+PHN;St Clair Co Intl;42.910.957;-82.528.862;650;-5;A;America/New_York
+PHO;Point Hope Airport;683.488;-166.799;12;-9;A;America/Anchorage
+PHX;Phoenix Sky Harbor Intl;33.434.278;-112.011.583;1135;-7;N;America/Phoenix
+PIA;Peoria Regional;40.664.203;-89.693.258;660;-6;A;America/Chicago
+PIB;Hattiesburg Laurel Regional Airport;314.671;-893.371;298;-6;A;America/Chicago
+PIE;St Petersburg Clearwater Intl;27.910.167;-82.687.389;10;-5;A;America/New_York
+PIH;Pocatello Regional Airport;429.098;-112.596;4452;-7;A;America/Denver
+PIM;Harris County Airport;328.406.944;-848.824.444;902;-5;A;America/New_York
+PIP;Pilot Point Airport;57.585.393;-157.571.944;57;-9;A;America/Anchorage
+PIR;Pierre Regional Airport;443.827;-100.286;1742;-6;A;America/Chicago
+PIT;Pittsburgh Intl;40.491.467;-80.232.872;1204;-5;A;America/New_York
+PIZ;Point Lay Lrrs;69.732.875;-163.005.342;25;-9;A;America/Anchorage
+PKB;Mid-Ohio Valley Regional Airport;393.451.039;-814.392.031;858;-5;A;America/New_York
+PLN;Pellston Regional Airport of Emmet County Airport;455.709;-847.967;720;-5;A;America/New_York
+PMB;Pembina Muni;48.942.501;-97.240.833;795;-6;A;America/Chicago
+PMD;Palmdale Rgnl Usaf Plt 42;34.629.391;-11.808.456;2543;-8;A;America/Los_Angeles
+PML;Port Moller Airport;56.006.111;-160.560.833;20;-9;A;America/Anchorage
+PMP;Pompano Beach Airpark;262.471.389;-801.110.556;19;-5;A;America/New_York
+PNC;Ponca City Rgnl;36.731.958;-97.099.781;1007;-6;A;America/Chicago
+PNE;Northeast Philadelphia;40.081.944;-75.010.586;121;-5;A;America/New_York
+PNM;Princeton Muni;45.559.868;-93.608.217;979;-6;A;America/Chicago
+PNS;Pensacola Rgnl;30.473.425;-87.186.611;121;-6;A;America/Chicago
+POB;Pope Field;35.170.883;-79.014.472;217;-5;A;America/New_York
+POC;Brackett Field;340.916.667;-1.177.817.778;1014;-8;A;America/Los_Angeles
+POE;Polk Aaf;31.044.833;-93.191.667;330;-6;A;America/Chicago
+POF;Poplar Bluff Municipal Airport;3.677.394.444;-903.248.611;331;-6;A;America/Chicago
+PPC;Prospect Creek Airport;66.814.167;-150.643.611;1095;-9;A;America/Anchorage
+PPV;Port Protection Seaplane Base;56.328.889;-133.61;0;-9;A;America/Anchorage
+PQI;Northern Maine Rgnl At Presque Isle;46.688.958;-68.044.797;534;-5;A;America/New_York
+PQS;Pilot Station Airport;61.934.444;-162.899.444;305;-9;A;America/Anchorage
+PRC;Ernest A Love Fld;34.654.472;-112.419.583;5045;-7;A;America/Phoenix
+PRL;Port Oceanic Airport;602.083.333;-1.478.194.444;142;-9;A;America/Anchorage
+PSC;Tri Cities Airport;462.647;-119.119;410;-8;A;America/Los_Angeles
+PSG;Petersburg James A. Johnson;56.801.667;-132.945.278;105;-9;A;America/Anchorage
+PSM;Pease International Tradeport;430.779;-708.233;100;-5;A;America/New_York
+PSP;Palm Springs Intl;33.829.667;-116.506.694;477;-8;A;America/Los_Angeles
+PSX;Palacios Muni;28.727.508;-96.250.958;14;-6;A;America/Chicago
+PTA;Port Alsworth Airport;60.208.281;-154.306.586;253;-9;A;America/Anchorage
+PTB;Dinwiddie County Airport;3.718.375;-77.507.388;193;-5;A;America/New_York
+PTH;Port Heiden Airport;569.591;-158.633;95;-9;A;America/Anchorage
+PTK;Oakland Co. Intl;42.667;-83.35;980;-5;A;America/New_York
+PTU;Platinum;59.011.356;-161.819.664;15;-9;A;America/Anchorage
+PUB;Pueblo Memorial;38.289.085;-104.496.572;4726;-7;A;America/Denver
+PUC;Carbon County Regional-Buck Davis Field;39.609.722;-11.075.278;5957;-7;A;America/Denver
+PUW;Pullman-Moscow Rgnl;46.743.861;-117.109.583;2556;-8;A;America/Los_Angeles
+PVC;Provincetown Muni;42.071.945;-7.022.139;9;-5;A;America/New_York
+PVD;Theodore Francis Green State;41.732.581;-71.420.383;55;-5;A;America/New_York
+PVU;Provo Municipal Airport;4.021.805.555;-11.172.222.222;4497;-7;A;America/Denver
+PWK;Chicago Executive;421.142.897;-879.015.376;647;-6;A;America/Chicago
+PWM;Portland Intl Jetport;43.646.161;-70.309.281;77;-5;A;America/New_York
+PWT;Bremerton National;47.490.244;-122.764.814;444;-8;A;America/Los_Angeles
+PYM;Plymouth Municipal Airport;419.090.278;-707.287.778;148;-5;A;America/New_York
+PYP;Centre-Piedmont-Cherokee County Regional Airport;340.899.167;-856.100.833;595;-6;A;America/Chicago
+R49;Ferry County Airport;487.182.058;-1.186.564.714;2522;-8;A;America/Los_Angeles
+RAC;John H. Batten Airport;427.605;-878.152;674;-6;A;America/Chicago
+RAL;Riverside Muni;33.951.875;-117.445.103;818;-8;A;America/Los_Angeles
+RAP;Rapid City Regional Airport;44.045.278;-103.057.222;3204;-7;A;America/Denver
+RBD;Dallas Executive Airport;32.680.833;-96.868.333;201;-6;A;America/Chicago
+RBK;French Valley Airport;335.741.791;-1.171.284.732;1350;-8;A;America/Los_Angeles
+RBM;Robinson Aaf;34.850.089;-92.300.153;587;-6;A;America/Chicago
+RBN;Fort Jefferson;2.461.667;-8.286.667;0;-5;A;America/New_York
+RBY;Ruby Airport;647.272;-155.47;653;-9;A;America/Anchorage
+RCA;Ellsworth Afb;44.145.042;-103.103.567;3279;-7;A;America/Denver
+RCE;Roche Harbor Seaplane Base;48.608.056;-123.159.722;0;-8;A;America/Los_Angeles
+RCZ;Richmond County Airport;348.913.056;-797.596.111;358;-5;A;America/New_York
+RDD;Redding Muni;40.509;-122.293.389;504;-8;A;America/Los_Angeles
+RDG;Reading Regional Carl A Spaatz Field;403.785;-759.652;344;-5;A;America/New_York
+RDM;Roberts Fld;44.254.066;-121.149.964;3077;-8;A;America/Los_Angeles
+RDR;Grand Forks Afb;47.961.098;-97.401.194;913;-6;A;America/Chicago
+RDU;Raleigh Durham Intl;35.877.639;-78.787.472;435;-5;A;America/New_York
+RDV;Red Devil Airport;61.788.056;-157.350.278;174;-9;A;America/Anchorage
+REI;Redlands Municipal Airport;3.408.525;-117.146.388;1574;-8;A;America/Los_Angeles
+RFD;Chicago Rockford International Airport;421.953.611;-890.972.222;742;-6;A;America/Chicago
+RHI;Rhinelander Oneida County Airport;456.312;-894.675;1624;-6;A;America/Chicago
+RIC;Richmond Intl;37.505.167;-77.319.667;167;-5;A;America/New_York
+RID;Richmond Municipal Airport;397.561.006;-848.427.175;1140;-5;U;America/New_York
+RIF;Richfield Minicipal Airport;387.364.361;-1.120.989.444;5301;-7;A;America/Denver
+RIL;Garfield County Regional Airport;395.263.056;-1.077.269.444;5548;-7;A;America/Denver
+RIR;Flabob Airport;33.988.778;-117.409.971;764;-8;A;America/Los_Angeles
+RIU;Rancho Murieta;38.486.778;-121.102.778;141;-8;A;America/Los_Angeles
+RIV;March Arb;33.880.711;-117.259.453;1535;-8;A;America/Los_Angeles
+RIW;Riverton Regional;43.064.167;-108.459.722;5525;-7;A;America/Denver
+RKD;Knox County Regional Airport;440.601.111;-690.992.303;56;-5;A;America/New_York
+RKH;Rock Hill York Co Bryant Airport;349.878;-810.572;667;-5;A;America/New_York
+RKP;Aransas County Airport;280.862.222;-970.436.944;24;-6;A;America/Chicago
+RKS;Rock Springs Sweetwater County Airport;415.942;-109.065;6760;-7;A;America/Denver
+RME;Griffiss Afld;432.338;-75.407.033;504;-5;A;America/New_York
+RMG;Richard B Russell Airport;343.507.778;-851.586.667;664;-5;A;America/New_York
+RMP;Rampart Airport;65.507.778;-150.140.833;302;-9;A;America/Anchorage
+RMY;Brooks Field Airport;422.511.932;-849.554.443;941;-5;A;America/New_York
+RND;Randolph Afb;29.529.675;-982.789;762;-6;A;America/Chicago
+RNM;Ramona Airport;330.391.667;-11.691.525;1395;-8;A;America/Los_Angeles
+RNO;Reno Tahoe Intl;39.499.108;-119.768.108;4415;-8;A;America/Los_Angeles
+RNT;Renton;474.931.389;-12.221.575;32;-8;A;America/Los_Angeles
+ROA;Roanoke Regional;37.325.472;-79.975.417;1175;-5;A;America/New_York
+ROC;Greater Rochester Intl;43.118.866;-77.672.389;559;-5;A;America/New_York
+ROW;Roswell Intl Air Center;33.301.556;-104.530.556;3671;-7;A;America/Denver
+RSH;Russian Mission Airport;61.775;-161.319.444;51;-9;A;America/Anchorage
+RSJ;Rosario Seaplane Base;48.645.556;-122.868.056;0;-8;A;America/Los_Angeles
+RST;Rochester;43.908.283;-92.500.014;1317;-6;A;America/Chicago
+RSW;Southwest Florida Intl;26.536.167;-81.755.167;30;-5;A;America/New_York
+RUT;Rutland State Airport;435.294;-729.496;787;-5;A;America/New_York
+RVS;Richard Lloyd Jones Jr Airport;360.396.111;-959.846.389;638;-6;A;America/Chicago
+RWI;Rocky Mount Wilson Regional Airport;358.563;-778.919;159;-5;A;America/New_York
+RWL;Rawlins Municipal Airport-Harvey Field;418.055.975;-10.719.994;6813;-7;A;America/Denver
+RYY;Cobb County Airport-Mc Collum Field;340.131.569;-845.970.556;1041;-5;A;America/New_York
+S30;Lebanon State;443.179;-1.225.577;344;-8;A;America/Los_Angeles
+S40;Prosser;46.128;-1.194.773;705;-8;A;America/Los_Angeles
+S46;Port O\\'Connor Airfield;28.429.977;-96.442.859;10;-6;A;America/Chicago
+SAA;Shively Field Airport;414.448.594;-1.068.235.264;7012;-7;A;America/Denver
+SAC;Sacramento Executive;38.512.524;-12.149.347;24;-8;A;America/Los_Angeles
+SAD;Safford Regional Airport;328.533.333;-1.096.350.833;3179;-7;N;America/Phoenix
+SAF;Santa Fe Muni;35.617.108;-106.089.422;6348;-7;A;America/Denver
+SAN;San Diego Intl;32.733.556;-117.189.667;17;-8;A;America/Los_Angeles
+SAT;San Antonio Intl;29.533.694;-98.469.778;809;-6;A;America/Chicago
+SAV;Savannah Hilton Head Intl;32.127.583;-81.202.139;51;-5;A;America/New_York
+SBA;Santa Barbara Muni;34.426.211;-119.840.372;10;-8;A;America/Los_Angeles
+SBD;San Bernardino International Airport;340.953.521;-1.172.348.722;1159;-8;A;America/Los_Angeles
+SBM;Sheboygan County Memorial Airport;437.696;-87.851.402;755;-6;A;America/Chicago
+SBN;South Bend Rgnl;41.708.661;-8.631.725;799;-5;A;America/New_York
+SBO;Emanuel Co;32.609.139;-82.369.944;327;-5;A;America/New_York
+SBP;San Luis County Regional Airport;352.368;-120.642;212;-8;A;America/Los_Angeles
+SBS;Steamboat Springs Airport-Bob Adams Field;4.051.625;-1.068.663.056;6882;-7;A;America/Denver
+SBY;Salisbury Ocean City Wicomico Rgnl;38.340.525;-75.510.289;52;-5;A;America/New_York
+SCC;Deadhorse;7.019.475;-148.465.167;64;-9;A;America/Anchorage
+SCE;University Park Airport;40.849.278;-77.848.694;1239;-5;A;America/New_York
+SCH;Stratton ANGB - Schenectady County Airpor;4.285.245.555;-73.928.866.666;378;-5;A;America/New_York
+SCK;Stockton Metropolitan;37.894.167;-121.238.306;33;-8;A;America/Los_Angeles
+SCM;Scammon Bay Airport;61.845.278;-165.571.389;14;-9;A;America/Anchorage
+SDC;Williamson-Sodus Airport;432.347.904;-77.119.444;424;-5;A;America/New_York
+SDF;Louisville International Airport;381.740.858;-857.364.989;501;-5;A;America/New_York
+SDM;Brown Field Municipal Airport;325.722.722;-1.169.801.611;526;-8;A;America/Los_Angeles
+SDP;Sand Point Airport;55.315;-160.523;21;-9;A;America/Anchorage
+SDX;Sedona;34.848.628;-111.788.472;4830;-7;A;America/Phoenix
+SDY;Sidney-Richland Municipal Airport;47.706.944;-1.041.925;1984;-7;A;America/Denver
+SEA;Seattle Tacoma Intl;47.449;-122.309.306;433;-8;A;America/Los_Angeles
+SEE;Gillespie;328.262.222;-1.169.724.444;388;-8;A;America/Los_Angeles
+SEF;Regional - Hendricks AAF;27.456.389;-81.342.222;63;-5;A;America/New_York
+SEM;Craig Fld;32.343.947;-86.987.803;166;-6;A;America/Chicago
+SES;Selfield Airport;324.404;-869.522;131;-6;A;America/Chicago
+SFB;Orlando Sanford Intl;28.777.639;-81.237.489;55;-5;A;America/New_York
+SFF;Felts Fld;47.682.819;-117.322.558;1953;-8;A;America/Los_Angeles
+SFM;Sanford Regional;4.339.383;-70.708;244;-5;A;America/New_York
+SFO;San Francisco Intl;37.618.972;-122.374.889;13;-8;A;America/Los_Angeles
+SFZ;North Central State;41.920.764;-71.491.381;441;-5;A;America/New_York
+SGF;Springfield Branson Natl;37.245.667;-93.388.639;1268;-6;A;America/Chicago
+SGH;Springfield-Beckly Municipal Airport;398.402.778;-838.401.667;1051;-5;A;America/New_York
+SGJ;St. Augustine Airport;2.995.925;-813.397.222;10;-5;A;America/New_York
+SGR;Sugar Land Regional Airport;2.962.225;-956.565.278;82;-6;A;America/Chicago
+SGU;St George Muni;37.090.583;-113.593.056;2941;-7;A;America/Denver
+SGY;Skagway Airport;594.601;-135.316;44;-9;A;America/Anchorage
+SHD;Shenandoah Valley Regional Airport;38.263.889;-78.896.389;1201;-5;A;America/New_York
+SHG;Shungnak Airport;66.888.056;-1.571.625;197;-9;A;America/Anchorage
+SHH;Shishmaref Airport;662.496;-166.089;12;-9;A;America/Anchorage
+SHR;Sheridan County Airport;447.692;-106.98;4021;-7;A;America/Denver
+SHV;Shreveport Rgnl;32.446.629;-938.256;258;-6;A;America/Chicago
+SHX;Shageluk Airport;62.692.222;-159.569.167;79;-9;A;America/Anchorage
+SIK;Sikeston Memorial Municipal;368.988.889;-8.956.175;315;-6;A;America/Chicago
+SIT;Sitka Rocky Gutierrez;57.047.138;-135.361.611;21;-9;A;America/Anchorage
+SJC;Norman Y Mineta San Jose Intl;373.626;-121.929.022;62;-8;A;America/Los_Angeles
+SJT;San Angelo Rgnl Mathis Fld;3.135.775;-100.496.306;1919;-6;A;America/Chicago
+SKA;Fairchild Afb;47.615.058;-117.655.772;2461;-8;A;America/Los_Angeles
+SKF;Lackland Afb Kelly Fld Annex;29.384.228;-98.581.108;691;-6;A;America/Chicago
+SKK;Shaktoolik Airport;64.371.111;-161.223.889;24;-9;A;America/Anchorage
+SKY;Griffing Sandusky;41.433.361;-82.652.333;580;-5;A;America/New_York
+SLC;Salt Lake City Intl;40.788.389;-111.977.772;4227;-7;A;America/Denver
+SLE;McNary Field;449.095;-123.003;214;-8;A;America/Los_Angeles
+SLK;Adirondack Regional Airport;443.853;-742.062;1663;-5;A;America/New_York
+SLN;Salina Municipal Airport;38.791;-976.522;1288;-6;A;America/Chicago
+SLQ;Sleetmute Airport;61.700.566;-157.165.833;190;-9;A;America/Anchorage
+SMD;Smith Fld;41.143.353;-85.152.778;834;-5;A;America/New_York
+SME;Lake Cumberland Regional Airport;37.053.611;-84.615.556;927;-5;A;America/New_York
+SMF;Sacramento Intl;38.695.417;-121.590.778;27;-8;A;America/Los_Angeles
+SMK;St. Michael Airport;63.49;-162.110.278;98;-9;A;America/Anchorage
+SMN;Lemhi County Airport;45.123.889;-113.881.389;4043;-7;A;America/Denver
+SMO;Santa Monica Municipal Airport;340.158.333;-1.184.513.056;177;-8;A;America/Los_Angeles
+SMX;Santa Maria Pub Cpt G Allan Hancock Airport;348.989;-120.457;261;-8;A;America/Los_Angeles
+SNA;John Wayne Arpt Orange Co;33.675.667;-117.868.222;56;-8;A;America/Los_Angeles
+SNP;St Paul Island;57.167.333;-170.220.444;63;-9;A;America/Anchorage
+SNY;Sidney Muni Airport;4.110.167;-102.985;4313;-7;A;America/Denver
+SOP;Moore County Airport;352.376.111;-793.887.958;455;-5;A;America/New_York
+SOW;Show Low Regional Airport;34.265.556;-110.005.556;6415;-7;A;America/Phoenix
+SPB;Scappoose Industrial Airpark;45.771.028;-122.861.833;58;-8;A;America/Los_Angeles
+SPF;Black Hills Airport-Clyde Ice Field;444.811.407;-1.037.860.053;3931;-7;A;America/Denver
+SPG;Albert Whitted;27.765.111;-82.626.972;7;-5;A;America/New_York
+SPI;Abraham Lincoln Capital;398.441;-89.677.889;597;-6;A;America/Chicago
+SPS;Sheppard Afb Wichita Falls Muni;33.988.797;-98.491.894;1019;-6;A;America/Chicago
+SPW;Spencer Muni;43.165.527;-95.202.805;1339;-6;A;America/Chicago
+SPZ;Silver Springs Airport;394.030.278;-1.192.511.944;4269;-8;A;America/Los_Angeles
+SQL;San Carlos Airport;37.511.944;-122.249.444;5;-8;A;America/Los_Angeles
+SRQ;Sarasota Bradenton Intl;27.395.444;-82.554.389;30;-5;A;America/New_York
+SRR;Sierra Blanca Regional Airport;3.346.285;-105.534.751;6814;-7;A;America/Denver
+SRV;Stony River 2 Airport;617.875;-156.591.111;230;-9;A;America/Anchorage
+SSC;Shaw Afb;33.972.719;-80.470.564;242;-5;A;America/New_York
+SSI;McKinnon Airport;311.519.722;-813.910.556;19;-5;A;America/New_York
+STC;Saint Cloud Regional Airport;45.546.556;-94.059.889;1031;-6;A;America/Chicago
+STE;Stevens Point Municipal Airport;445.451.356;-895.302.844;1110;-6;A;America/Chicago
+STG;St. George Airport;56.577.222;-169.663.611;125;-9;A;America/Anchorage
+STJ;Rosecrans Mem;39.771.944;-94.909.706;826;-6;A;America/Chicago
+STK;Sterling Municipal Airport;406.153.136;-1.032.648.454;4040;-7;A;America/Denver
+STL;Lambert St Louis Intl;38.748.697;-90.370.028;618;-6;A;America/Chicago
+STS;Charles M Schulz Sonoma Co;38.508.978;-12.281.288;125;-8;A;America/Los_Angeles
+SUA;Witham Field Airport;271.816.996;-80.221.294;16;-5;A;America/New_York
+SUE;Door County Cherryland Airport;448.436.667;-874.215.556;725;-6;U;America/Chicago
+SUN;Friedman Mem;43.504.444;-114.296.194;5320;-7;A;America/Denver
+SUS;Spirit Of St Louis;38.662.119;-90.652.044;463;-6;A;America/Chicago
+SUU;Travis Afb;38.262.692;-121.927.464;62;-8;A;America/Los_Angeles
+SUX;Sioux Gateway Col Bud Day Fld;42.402.603;-96.384.367;1098;-6;A;America/Chicago
+SVA;Savoonga Airport;636.864;-170.493;53;-9;A;America/Anchorage
+SVC;Grant County Airport;326.365;-108.156;5446;-7;A;America/Denver
+SVH;Regional Airport;357.649.958;-809.538.958;968;-5;A;America/New_York
+SVN;Hunter Aaf;32.01;-81.145.683;42;-5;A;America/New_York
+SVW;Sparrevohn Lrrs;61.097.369;-155.574.228;1583;-9;A;America/Anchorage
+SWD;Seward Airport;601.269.383;-1.494.188.122;22;-9;U;America/Anchorage
+SWF;Stewart Intl;41.504.094;-74.104.839;491;-5;A;America/New_York
+SXP;Sheldon Point Airport;62.520.556;-164.847.778;12;-9;A;America/Anchorage
+SXQ;Soldotna Airport;604.749.583;-1.510.382.389;113;-9;U;America/Anchorage
+SYA;Eareckson As;52.712.275;17.411.362;98;-9;A;America/Anchorage
+SYB;Seal Bay Seaplane Base;58.166.667;-152.5;0;-9;A;America/Anchorage
+SYR;Syracuse Hancock Intl;43.111.187;-76.106.311;421;-5;A;America/New_York
+SZL;Whiteman Afb;38.730.306;-93.547.864;870;-6;A;America/Chicago
+TAL;Tanana Airport;65.179.556;-152.075.833;207;-9;A;America/Anchorage
+TAN;Taunton Municipal Airport - King Field;418.744.017;-710.166.453;43;-5;A;America/New_York
+TBN;Waynesville Rgnl Arpt At Forney Fld;37.741.631;-92.140.736;1159;-6;A;America/Chicago
+TCC;Tucumcari Muni;35.182.777;-103.603.186;4065;-7;A;America/Denver
+TCL;Tuscaloosa Rgnl;33.220.627;-87.611.403;170;-6;A;America/Chicago
+TCM;Mc Chord Afb;47.137.678;-122.476.475;322;-8;A;America/Los_Angeles
+TCS;Truth Or Consequences Muni;33.236.944;-10.727.175;4853;-7;A;America/Denver
+TCT;Takotna Airport;62.971.944;-156.082.778;825;-9;A;America/Anchorage
+TEB;Teterboro;40.850.103;-74.060.837;9;-5;A;America/New_York
+TEK;Tatitlek Airport;608.725;-146.691.111;62;-9;A;America/Anchorage
+TEX;Telluride;37.953.759;-10.790.848;9078;-7;A;America/Denver
+TIK;Tinker Afb;35.414.739;-97.386.633;1291;-6;A;America/Chicago
+TIW;Tacoma Narrows Airport;47.267.944;-12.257.811;294;-8;A;America/Los_Angeles
+TIX;Space Coast Reg'l Airport;285.148;-807.992.278;34;-5;A;America/New_York
+TKA;Talkeetna;623.205;-150.093.694;358;-9;A;America/Anchorage
+TKE;Tenakee Seaplane Base;57.779.722;-135.218.333;0;-9;A;America/Anchorage
+TKF;Truckee-Tahoe Airport;393.200.422;-1.201.395.628;5900;-8;A;America/Los_Angeles
+TKI;Collin County Regional Airport at Mc Kinney;331.779.444;-965.905.278;585;-6;A;America/Chicago
+TLA;Teller Airport;65.240.278;-166.339.444;294;-9;A;America/Anchorage
+TLH;Tallahassee Rgnl;30.396.528;-84.350.333;81;-5;A;America/New_York
+TLJ;Tatalina Lrrs;62.894.369;-155.976.525;964;-9;A;America/Anchorage
+TLT;Tuluksak Airport;61.096.944;-160.969.444;30;-9;A;America/Anchorage
+TMA;Henry Tift Myers Airport;314.289.814;-83.488.545;355;-5;A;America/New_York
+TMB;Kendall Tamiami Executive;25.647.889;-80.432.777;8;-5;A;America/New_York
+TNC;Tin City LRRS Airport;65.563.056;-167.921.667;269;-9;A;America/Anchorage
+TNK;Tununak Airport;60.575.556;-165.271.667;14;-9;A;America/Anchorage
+TNT;Dade Collier Training And Transition;25.861.806;-80.897;13;-5;A;America/New_York
+TNX;Tonopah Test Range;37.798.836;-11.678.075;5549;-8;A;America/Los_Angeles
+TOA;Zamperini Field Airport;33.803.392;-118.339.611;101;-8;A;America/Los_Angeles
+TOC;Toccoa RG Letourneau Field Airport;345.928.117;-832.963.717;996;-5;A;America/New_York
+TOG;Togiak Airport;590.528;-160.397;21;-9;A;America/Anchorage
+TOL;Toledo;41.586.806;-83.807.833;684;-5;A;America/New_York
+TOP;Philip Billard Muni;39.068.657;-95.622.482;881;-6;A;America/Chicago
+TPA;Tampa Intl;27.975.472;-8.253.325;26;-5;A;America/New_York
+TPL;Draughon Miller Central Texas Rgnl;311.525;-97.407.778;682;-6;A;America/Chicago
+TRI;Tri-Cities Regional Airport;364.752.222;-824.074.167;1519;-5;A;America/New_York
+TRM;Jacqueline Cochran Regional Airport;33.626.666;-1.161.596.667;0;-8;A;America/Los_Angeles
+TSS;East 34th Street Heliport;407.425;-73.971.944;10;-5;A;America/New_York
+TTD;Portland Troutdale;4.554.937;-122.401.253;39;-8;A;America/Los_Angeles
+TTN;Trenton Mercer;40.276.692;-74.813.469;213;-5;A;America/New_York
+TUL;Tulsa Intl;36.198.389;-95.888.111;677;-6;A;America/Chicago
+TUP;Tupelo Regional Airport;342.681;-887.699;346;-6;A;America/Chicago
+TUS;Tucson Intl;32.116.083;-110.941.028;2643;-7;N;America/Phoenix
+TVC;Cherry Capital Airport;44.741.445;-85.582.235;624;-5;A;America/New_York
+TVF;Thief River Falls;48.065.556;-96.185;1116;-6;A;America/Chicago
+TVI;Thomasville Regional Airport;309.017.921;-838.811.285;264;-5;A;America/New_York
+TVL;Lake Tahoe Airport;38.893.889;-119.995.278;8544;-8;A;America/Los_Angeles
+TWA;Twin Hills Airport;59.074.444;-160.275;82;-9;A;America/Anchorage
+TWD;Jefferson County Intl;480.314;-1.224.838;108;-8;A;America/Los_Angeles
+TWF;Magic Valley Regional Airport;42.481.803;-114.487.733;4151;-7;A;America/Denver
+TXK;Texarkana Rgnl Webb Fld;33.453.722;-93.991.028;390;-6;A;America/Chicago
+TYE;Tyonek Airport;61.076.667;-151.138.056;110;-9;A;America/Anchorage
+TYR;Tyler Pounds Rgnl;32.354.139;-95.402.386;544;-6;A;America/Chicago
+TYS;Mc Ghee Tyson;35.810.972;-83.994.028;981;-5;A;America/New_York
+TZR;Bolton Field;39.901.111;-83.136.944;905;-5;A;America/New_York
+U76;Mountain Home Municipal Airport;431.316.111;-1.157.305.671;3167;-7;A;America/Denver
+UCA;Union Station;43.104.167;-75.223.333;456;-5;A;America/New_York
+UDD;Bermuda Dunes Airport;337.484.375;-1.162.748.133;73;-8;A;America/Los_Angeles
+UDG;Darlington County Jetport;344.493.845;-798.900.608;192;-5;A;America/New_York
+UES;Waukesha County Airport;430.410.278;-882.370.556;911;-6;A;America/Chicago
+UGN;Waukegan Rgnl;42.422.161;-87.867.908;727;-6;A;America/Chicago
+UIN;Quincy Regional Baldwin Field;399.427;-911.946;769;-6;A;America/Chicago
+UMP;Indianapolis Metropolitan Airport;39.935.278;-86.045;811;-5;A;America/New_York
+UNK;Unalakleet Airport;63.888.333;-160.798.889;21;-9;A;America/Anchorage
+UPP;Upolu;20.265.256;-155.859.989;96;-10;A;Pacific/Honolulu
+UST;St. Augustine Airport;29.959.167;-81.339.722;10;-5;A;America/New_York
+UT3;Hite Airport;378.916.547;-1.103.840.289;3840;-7;A;America/Denver
+UTM;Tunica Municipal Airport;34.681;-903.467;194;-6;A;America/Chicago
+UTO;Indian Mountain Lrrs;65.992.794;-153.704.289;1220;-9;A;America/Anchorage
+UUK;Ugnu-Kuparuk Airport;70.330.833;-1.495.975;67;-9;A;America/Anchorage
+UUU;Newport State;41.533.056;-71.282.222;172;-5;A;America/New_York
+UVA;Garner Field;29.215.429;-99.748.962;942;-6;A;America/Chicago
+VAD;Moody Afb;30.967.833;-83.193;233;-5;A;America/New_York
+VAK;Chevak Airport;615.338;-165.584;75;-9;A;America/Anchorage
+VAY;South Jersey Regional Airport;399.428.889;-7.484.575;53;-5;A;America/New_York
+VBG;Vandenberg Afb;34.737.333;-120.584.306;369;-8;A;America/Los_Angeles
+VCT;Victoria Regional Airport;288.526;-969.185;115;-6;A;America/Chicago
+VCV;Southern California Logistics;34.597.453;-117.382.997;2885;-8;A;America/Los_Angeles
+VDF;Tampa Executive Airport;280.139.772;-823.452.778;22;-5;A;America/New_York
+VDZ;Valdez Pioneer Fld;61.133.949;-146.248.342;118;-9;A;America/Anchorage
+VEE;Venetie Airport;67.008.611;-146.366.389;574;-9;A;America/Anchorage
+VEL;Vernal Regional Airport;40.440.833;-109.51;5278;-7;A;America/Denver
+VGT;North Las Vegas Airport;362.106.944;-1.151.944.444;2205;-8;U;America/Los_Angeles
+VIS;Visalia Municipal Airport;36.318.611;-119.392.778;295;-8;A;America/Los_Angeles
+VLD;Valdosta Regional Airport;307.825;-832.767;203;-5;A;America/New_York
+VNW;Van Wert County Airport;408.638.295;-84.606.358;787;-5;A;America/New_York
+VNY;Van Nuys;34.209.811;-118.489.972;802;-8;A;America/Los_Angeles
+VOK;Volk Fld;43.938.956;-90.253.433;912;-6;A;America/Chicago
+VPC;Cartersville Airport;341.231.475;-848.487.067;759;-5;A;America/New_York
+VPS;Eglin Afb;3.048.325;-865.254;87;-6;A;America/Chicago
+VRB;Vero Beach Muni;27.655.556;-80.417.944;24;-5;A;America/New_York
+VSF;Hartness State;43.343.333;-72.517.222;577;-5;A;America/New_York
+VYS;Illinois Valley Regional;41.351.944;-89.153.056;654;-6;A;America/Chicago
+W04;Ocean Shores Municipal;465.995;-1.240.854;15;-8;A;America/Los_Angeles
+W13;Eagle's Nest Airport;38.076.944;-78.944.167;1437;-5;A;America/New_York
+WAA;Wales Airport;656.225;-168.095;22;-9;A;America/Anchorage
+WAL;Wallops Flight Facility;37.940.194;-75.466.389;40;-5;A;America/New_York
+WAS;All Airports;38.889.444;-77.035.278;25;-5;A;America/New_York
+WBB;Stebbins Airport;63.515.833;-162.278.056;14;-9;A;America/Anchorage
+WBQ;Beaver Airport;66.362.222;-147.406.667;359;-9;A;America/Anchorage
+WBU;Boulder Municipal;40.039.444;-105.225.833;5288;-7;A;America/Denver
+WBW;Wilkes-Barre Wyoming Valley Airport;412.973.074;-758.522.405;543;-5;A;America/New_York
+WDR;Barrow County Airport;339.828.611;-836.674.167;943;-5;A;America/New_York
+WFB;Ketchikan harbor Seaplane Base;55.344.444;-131.663.333;0;-9;A;America/Anchorage
+WFK;Northern Aroostook Regional Airport;47.285.556;-68.312.778;988;-5;A;America/New_York
+WHD;Hyder Seaplane Base;55.903.333;-130.006.667;0;-8;A;America/Vancouver
+WHP;Whiteman Airport;342.593.253;-1.184.134.331;1003;-8;A;America/Los_Angeles
+WIH;Wishram Amtrak Station;456.576;-1.209.664;1;-8;A;America/Los_Angeles
+WKK;Aleknagik Airport;592.826;-158.618;66;-9;A;America/Anchorage
+WKL;Waikoloa Heliport;199.136;-155.864;109;-10;N;Pacific/Honolulu
+WLK;Selawik Airport;66.6;-159.985.833;17;-9;A;America/Anchorage
+WMO;White Mountain Airport;64.689.167;-163.412.778;267;-9;A;America/Anchorage
+WRB;Robins Afb;32.640.144;-8.359.185;294;-5;A;America/New_York
+WRG;Wrangell Airport;564.843;-132.37;44;-9;A;America/Anchorage
+WRI;Mc Guire Afb;40.015.556;-74.591.667;131;-5;A;America/New_York
+WRL;Worland Municipal Airport;439.657;-107.951;4227;-7;A;America/Denver
+WSD;Condron Aaf;32.341.484;-10.640.277;3934;-7;A;America/Denver
+WSJ;San Juan - Uganik Seaplane Base;57.730.278;-153.320.556;0;-9;A;America/Anchorage
+WSN;South Naknek Airport;58.702.222;-1.570.025;162;-9;A;America/Anchorage
+WST;Westerly State Airport;41.349.722;-71.803.333;81;-5;A;America/New_York
+WSX;Westsound Seaplane Base;48.617.778;-122.952.778;0;-8;A;America/Los_Angeles
+WTK;Noatak Airport;675.661;-162.975;88;-9;A;America/Anchorage
+WTL;Tuntutuliak Airport;60.335.278;-162.666.944;16;-9;A;America/Anchorage
+WWD;Cape May Co;39.008.507;-74.908.275;23;-5;A;America/New_York
+WWP;North Whale Seaplane Base;56.116.389;-133.121.667;0;-9;A;America/Anchorage
+WWT;Newtok Airport;60.939.167;-164.641.111;25;-9;U;America/Anchorage
+WYS;Yellowstone Airport;44.688.333;-1.111.175;6644;-7;A;America/Denver
+X01;Everglades Airpark;258.488.611;-813.902.778;5;-5;U;America/New_York
+X04;Apopka;28.707.222;-81.581.667;143;-5;A;America/New_York
+X07;Lake Wales Municipal Airport;278.938.056;-816.203.889;127;-5;A;America/New_York
+X21;Arthur Dunn Airpark;28.622.552;-8.083.541;30;-5;A;America/New_York
+X26;Sebastian Municipal;2.781.325;-804.955.833;21;-5;A;America/New_York
+X39;Tampa North Aero Park;28.221.278;-82.374.555;68;-5;A;America/New_York
+X49;South Lakeland Airport;279.333.581;-820.439.739;110;-5;A;America/New_York
+X59;Valkaria Municipal;279.608.611;-805.583.333;26;-5;A;America/New_York
+XFL;Flagler County Airport;292.821;-811.212;33;-5;A;America/New_York
+XNA;NW Arkansas Regional;362.818.694;-943.068.111;1287;-6;A;America/Chicago
+XZK;Amherst Amtrak Station AMM;42.375;-72.511.389;258;-5;A;America/New_York
+Y51;Municipal Airport;435.793.603;-908.964.742;1292;-6;A;America/Chicago
+Y72;Bloyer Field;439.762.222;-904.806.111;966;-6;A;America/Chicago
+YAK;Yakutat;593.012;-1.393.937;33;-9;A;NA
+YIP;Willow Run;42.237.928;-83.530.408;716;-5;A;America/New_York
+YKM;Yakima Air Terminal McAllister Field;465.682;-120.544;1095;-8;A;America/Los_Angeles
+YKN;Chan Gurney;428.711;-973.969;1200;-6;A;America/Chicago
+YNG;Youngstown Warren Rgnl;41.260.736;-80.679.097;1196;-5;A;America/New_York
+YUM;Yuma Mcas Yuma Intl;32.656.578;-11.460.598;216;-7;N;America/Phoenix
+Z84;Clear;64.301.203;-149.120.144;552;-9;A;America/Anchorage
+ZBP;Penn Station;39.307.222;-76.615.556;66;-5;A;America/New_York
+ZFV;Philadelphia 30th St Station;399.557;-75.182;0;-5;A;America/New_York
+ZPH;Municipal Airport;28.228.056;-82.155.833;90;-5;A;America/New_York
+ZRA;Atlantic City Rail Terminal;393.665;-74.442;8;-5;A;America/New_York
+ZRD;Train Station;375.343;-7.742.945;26;-5;A;America/New_York
+ZRP;Newark Penn Station;40.734.722;-74.164.167;0;-5;A;America/New_York
+ZRT;Hartford Union Station;4.176.888;-726.815;0;-5;A;America/New_York
+ZRZ;New Carrollton Rail Station;38.948;-768.719;39;-5;A;America/New_York
+ZSF;Springfield Amtrak Station;42.106;-72.593.054;65;-5;A;America/New_York
+ZSY;Scottsdale Airport;336.228.889;-1.119.105.278;1519;-7;A;America/Phoenix
+ZTF;Stamford Amtrak Station;41.046.937;-73.541.493;0;-5;A;America/New_York
+ZTY;Boston Back Bay Station;423.478;-71.075;20;-5;A;America/New_York
+ZUN;Black Rock;35.083.228;-108.791.778;6454;-7;A;America/Denver
+ZVE;New Haven Rail Station;41.298.669;-72.925.992;7;-5;A;America/New_York
+ZWI;Wilmington Amtrak Station;39.736.667;-75.551.667;0;-5;A;America/New_York
+ZWU;Washington Union Station;3.889.746;-7.700.643;76;-5;A;America/New_York
+ZYP;Penn Station;407.505;-739.935;35;-5;A;America/New_York
